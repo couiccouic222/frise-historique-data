@@ -1,0 +1,468 @@
+{
+  "periods": [
+    {
+      "name": "Antiquité",
+      "start": "-3000",
+      "end": "476",
+      "color": "#a78bfa",
+      "type": "Période"
+    },
+    {
+      "name": "Moyen Âge",
+      "start": "476",
+      "end": "1492",
+      "color": "#60a5fa",
+      "type": "Période"
+    },
+    {
+      "name": "Temps modernes",
+      "start": "1492",
+      "end": "1789",
+      "color": "#34d399",
+      "type": "Période"
+    },
+    {
+      "name": "Époque contemporaine",
+      "start": "1789",
+      "end": "2100",
+      "color": "#fb923c",
+      "type": "Période"
+    },
+    {
+      "name": "Consulat",
+      "start": "1799",
+      "end": "1804",
+      "color": "#facc15",
+      "type": "Période"
+    },
+    {
+      "name": "Premier Empire",
+      "start": "1804",
+      "end": "1814",
+      "color": "#d97706",
+      "type": "Période"
+    }
+  ],
+  "events": [
+    {
+      "id": "ex-1",
+      "name": "Prise de la Bastille",
+      "start": "1789-07-14",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Prise de la forteresse de la Bastille à Paris, symbole du début de la Révolution française.",
+      "fromVibe": false
+    },
+    {
+      "id": "etats-generaux-1789",
+      "name": "Réunion des États généraux",
+      "start": "1789-05-05",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Louis XVI réunit les États généraux à Versailles pour résoudre la crise financière du royaume. Blocage immédiat sur la question du vote par tête ou par ordre.",
+      "fromVibe": true
+    },
+    {
+      "id": "assemblee-nationale-1789",
+      "name": "Le tiers état se proclame Assemblée nationale",
+      "start": "1789-06-17",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le tiers état, affirmant représenter la nation entière, se proclame Assemblée nationale : acte de naissance politique de la Révolution.",
+      "fromVibe": true
+    },
+    {
+      "id": "serment-jeu-de-paume-1789",
+      "name": "Serment du Jeu de paume",
+      "start": "1789-06-20",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Les députés jurent de ne pas se séparer avant d'avoir donné une constitution à la France.",
+      "fromVibe": true
+    },
+    {
+      "id": "nuit-4-aout-1789",
+      "name": "Nuit du 4 août : abolition des privilèges",
+      "start": "1789-08-04",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "L'Assemblée nationale abolit les privilèges féodaux : la société d'ordres est détruite en une nuit.",
+      "fromVibe": true
+    },
+    {
+      "id": "ddhc-1789",
+      "name": "Déclaration des droits de l'homme et du citoyen",
+      "start": "1789-08-26",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Liberté, égalité devant la loi, souveraineté de la nation : texte fondateur toujours au sommet du droit français.",
+      "fromVibe": true
+    },
+    {
+      "id": "marche-femmes-versailles-1789",
+      "name": "Marche des femmes sur Versailles",
+      "start": "1789-10-05",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Des Parisiennes marchent sur Versailles ; le roi est ramené à Paris et placé sous la surveillance du peuple.",
+      "fromVibe": true
+    },
+    {
+      "id": "constitution-civile-clerge-1790",
+      "name": "Constitution civile du clergé",
+      "start": "1790-07-12",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "L'Église de France passe sous le contrôle de l'État ; les prêtres doivent prêter serment, ce qui divise profondément le pays.",
+      "fromVibe": true
+    },
+    {
+      "id": "fuite-varennes-1791",
+      "name": "Fuite à Varennes",
+      "start": "1791-06-20",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Louis XVI tente de fuir à l'étranger avec sa famille ; reconnu et arrêté à Varennes, il perd définitivement la confiance des Français.",
+      "fromVibe": true
+    },
+    {
+      "id": "constitution-1791",
+      "name": "Première constitution",
+      "start": "1791-09-03",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "La France devient une monarchie constitutionnelle : le roi partage le pouvoir avec une assemblée élue.",
+      "fromVibe": true
+    },
+    {
+      "id": "guerre-autriche-1792",
+      "name": "Déclaration de guerre à l'Autriche",
+      "start": "1792-04-20",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "La France révolutionnaire déclare la guerre à l'Autriche, bientôt rejointe par la Prusse. La guerre va radicaliser la Révolution.",
+      "fromVibe": true
+    },
+    {
+      "id": "prise-tuileries-1792",
+      "name": "Prise des Tuileries",
+      "start": "1792-08-10",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Les Parisiens prennent d'assaut le palais des Tuileries ; le roi est suspendu puis emprisonné.",
+      "fromVibe": true
+    },
+    {
+      "id": "discours-danton-1792",
+      "name": "Discours de Danton : « De l'audace »",
+      "start": "1792-09-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Face à l'invasion prussienne, Danton appelle à l'audace : « De l'audace, encore de l'audace, toujours de l'audace, et la France est sauvée ! »",
+      "fromVibe": true
+    },
+    {
+      "id": "valmy-1792",
+      "name": "Bataille de Valmy",
+      "start": "1792-09-20",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Les canons français arrêtent l'invasion prussienne : première victoire de la République naissante.",
+      "fromVibe": true
+    },
+    {
+      "id": "premiere-republique-1792",
+      "name": "Proclamation de la Première République",
+      "start": "1792-09-21",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "La Convention nationale abolit la monarchie et proclame la République.",
+      "fromVibe": true
+    },
+    {
+      "id": "guerre-vendee-1793-1796",
+      "name": "Guerre de Vendée",
+      "start": "1793",
+      "end": "1796",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "La levée de 300 000 hommes provoque l'insurrection vendéenne : guerre civile dévastatrice entre paysans et armées républicaines.",
+      "fromVibe": true
+    },
+    {
+      "id": "execution-louis-xvi-1793",
+      "name": "Exécution de Louis XVI",
+      "start": "1793-01-21",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le roi, jugé pour trahison par la Convention, est guillotiné place de la Révolution. L'Europe entière se ligue contre la France.",
+      "fromVibe": true
+    },
+    {
+      "id": "assassinat-marat-1793",
+      "name": "Assassinat de Marat",
+      "start": "1793-07-13",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Charlotte Corday poignarde le journaliste radical Jean-Paul Marat dans son bain.",
+      "fromVibe": true
+    },
+    {
+      "id": "la-terreur-1793-1794",
+      "name": "La Terreur",
+      "start": "1793-09-17",
+      "end": "1794-07-28",
+      "type": "Période",
+      "category": "Politique",
+      "description": "De la loi des suspects à l'exécution de Robespierre : environ 16 500 condamnations à mort et 10 000 morts en prison (chiffres débattus).",
+      "fromVibe": true
+    },
+    {
+      "id": "execution-marie-antoinette-1793",
+      "name": "Exécution de Marie-Antoinette",
+      "start": "1793-10-16",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "La reine est guillotinée pendant la Terreur.",
+      "fromVibe": true
+    },
+    {
+      "id": "execution-danton-1794",
+      "name": "Exécution de Danton",
+      "start": "1794-04-05",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Danton et ses partisans, devenus favorables à la clémence, sont guillotinés à l'instigation du Comité de salut public.",
+      "fromVibe": true
+    },
+    {
+      "id": "thermidor-1794",
+      "name": "Chute de Robespierre (9 Thermidor)",
+      "start": "1794-07-27",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "La Convention arrête Robespierre, guillotiné le lendemain avec Saint-Just et ses partisans : la Terreur s'arrête.",
+      "fromVibe": true
+    },
+    {
+      "id": "vendemiaire-1795",
+      "name": "13 Vendémiaire",
+      "start": "1795-10-05",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le général Bonaparte disperse une insurrection royaliste à coups de canon dans les rues de Paris.",
+      "fromVibe": true
+    },
+    {
+      "id": "campagne-italie-1796-1797",
+      "name": "Campagne d'Italie",
+      "start": "1796",
+      "end": "1797-10-17",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "Les campagnes foudroyantes du général Bonaparte écrasent l'Autriche en Italie et le rendent immensément populaire.",
+      "fromVibe": true
+    },
+    {
+      "id": "expedition-egypte-1798-1801",
+      "name": "Expédition d'Égypte",
+      "start": "1798-05-19",
+      "end": "1801",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "Bonaparte part conquérir l'Égypte avec des savants ; l'expédition découvre notamment la pierre de Rosette.",
+      "fromVibe": true
+    },
+    {
+      "id": "brumaire-1799",
+      "name": "Coup d'État du 18 Brumaire",
+      "start": "1799-11-09",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Bonaparte renverse le Directoire et devient Premier consul : la Révolution s'achève.",
+      "fromVibe": true
+    },
+    {
+      "id": "concordat-1801",
+      "name": "Concordat",
+      "start": "1801-07-15",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Accord entre Bonaparte et le pape Pie VII : la paix religieuse revient en France après douze ans de division.",
+      "fromVibe": true
+    },
+    {
+      "id": "code-civil-1804",
+      "name": "Promulgation du Code civil",
+      "start": "1804-03-21",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le « Code Napoléon » fixe pour tous l'égalité civile et le droit de propriété ; il inspire encore de nombreux droits étrangers.",
+      "fromVibe": true
+    },
+    {
+      "id": "proclamation-empire-1804",
+      "name": "Proclamation de l'Empire",
+      "start": "1804-05-18",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le Sénat proclame Bonaparte empereur des Français sous le nom de Napoléon Ier.",
+      "fromVibe": true
+    },
+    {
+      "id": "sacre-napoleon-1804",
+      "name": "Sacre de Napoléon",
+      "start": "1804-12-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "À Notre-Dame de Paris, Napoléon saisit la couronne et se couronne lui-même devant le pape convoqué.",
+      "fromVibe": true
+    },
+    {
+      "id": "trafalgar-1805",
+      "name": "Bataille de Trafalgar",
+      "start": "1805-10-21",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Nelson détruit la flotte franco-espagnole : l'Angleterre règne sur les mers, Napoléon ne traversera jamais la Manche.",
+      "fromVibe": true
+    },
+    {
+      "id": "austerlitz-1805",
+      "name": "Bataille d'Austerlitz",
+      "start": "1805-12-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "La victoire la plus célèbre de Napoléon, contre l'Autriche et la Russie réunies : la France domine l'Europe continentale.",
+      "fromVibe": true
+    },
+    {
+      "id": "blocus-continental-1806",
+      "name": "Blocus continental",
+      "start": "1806-11-21",
+      "end": null,
+      "type": "Événement",
+      "category": "Économie",
+      "description": "Par le décret de Berlin, Napoléon interdit à l'Europe de commercer avec l'Angleterre ; le remède empoisonne aussi l'économie française.",
+      "fromVibe": true
+    },
+    {
+      "id": "guerre-espagne-1808-1814",
+      "name": "Guerre d'Espagne",
+      "start": "1808",
+      "end": "1814",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "L'occupation de l'Espagne plonge l'Empire dans une guérilla interminable qui l'épuise.",
+      "fromVibe": true
+    },
+    {
+      "id": "campagne-russie-1812",
+      "name": "Campagne de Russie",
+      "start": "1812-06-24",
+      "end": "1812-12-14",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "Environ 600 000 hommes partent écraser la Russie ; la retraite dans l'hiver et le désastre de la Bérézina détruisent l'armée et le mythe d'invincibilité.",
+      "fromVibe": true
+    },
+    {
+      "id": "leipzig-1813",
+      "name": "Bataille de Leipzig",
+      "start": "1813-10-16",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "La « bataille des Nations » : toute l'Europe réunie bat Napoléon, la France est envahie.",
+      "fromVibe": true
+    },
+    {
+      "id": "abdication-1814",
+      "name": "Première abdication de Napoléon",
+      "start": "1814-04-06",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Napoléon abdique et reçoit l'île d'Elbe ; Louis XVIII monte sur le trône, la Restauration commence.",
+      "fromVibe": true
+    },
+    {
+      "id": "debarquement-golfe-juan-1815",
+      "name": "Retour de Napoléon (golfe-Juan)",
+      "start": "1815-03-01",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Napoléon quitte l'île d'Elbe et débarque en France ; en trois semaines, il reprend le pouvoir sans tirer un coup de feu.",
+      "fromVibe": true
+    },
+    {
+      "id": "cent-jours-1815",
+      "name": "Les Cent-Jours",
+      "start": "1815-03-20",
+      "end": "1815-06-22",
+      "type": "Période",
+      "category": "Politique",
+      "description": "Du retour de Napoléon aux Tuileries à sa seconde abdication, après la défaite de Waterloo.",
+      "fromVibe": true
+    },
+    {
+      "id": "waterloo-1815",
+      "name": "Bataille de Waterloo",
+      "start": "1815-06-18",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Défaite définitive contre les Anglais de Wellington et les Prussiens de Blücher.",
+      "fromVibe": true
+    },
+    {
+      "id": "seconde-abdication-1815",
+      "name": "Seconde abdication de Napoléon",
+      "start": "1815-06-22",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Après Waterloo, Napoléon abdique et est exilé par les Anglais à Sainte-Hélène.",
+      "fromVibe": true
+    },
+    {
+      "id": "mort-napoleon-1821",
+      "name": "Mort de Napoléon à Sainte-Hélène",
+      "start": "1821-05-05",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "L'empereur meurt en exil sur l'île de Sainte-Hélène, dans l'Atlantique sud, à 51 ans.",
+      "fromVibe": true
+    }
+  ]
+}
