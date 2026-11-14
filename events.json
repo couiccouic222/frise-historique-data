@@ -29,13 +29,6 @@
       "type": "Période"
     },
     {
-      "name": "Première République",
-      "start": "1792",
-      "end": "1804",
-      "color": "#3b82f6",
-      "type": "Période"
-    },
-    {
       "name": "Consulat",
       "start": "1799",
       "end": "1804",
