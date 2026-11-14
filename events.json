@@ -41,19 +41,37 @@
       "end": "1814",
       "color": "#d97706",
       "type": "Période"
+    },
+    {
+      "name": "Restauration",
+      "start": "1815",
+      "end": "1830",
+      "color": "#a855f7",
+      "type": "Période"
+    },
+    {
+      "name": "Monarchie de Juillet",
+      "start": "1830",
+      "end": "1848",
+      "color": "#fbbf24",
+      "type": "Période"
+    },
+    {
+      "name": "Deuxième République",
+      "start": "1848",
+      "end": "1852",
+      "color": "#22d3ee",
+      "type": "Période"
+    },
+    {
+      "name": "Second Empire",
+      "start": "1852",
+      "end": "1870",
+      "color": "#dc2626",
+      "type": "Période"
     }
   ],
   "events": [
-    {
-      "id": "ex-1",
-      "name": "Prise de la Bastille",
-      "start": "1789-07-14",
-      "end": null,
-      "type": "Événement",
-      "category": "Politique",
-      "description": "Prise de la forteresse de la Bastille à Paris, symbole du début de la Révolution française.",
-      "fromVibe": false
-    },
     {
       "id": "etats-generaux-1789",
       "name": "Réunion des États généraux",
@@ -83,6 +101,16 @@
       "category": "Politique",
       "description": "Les députés jurent de ne pas se séparer avant d'avoir donné une constitution à la France.",
       "fromVibe": true
+    },
+    {
+      "id": "ex-1",
+      "name": "Prise de la Bastille",
+      "start": "1789-07-14",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Prise de la forteresse de la Bastille à Paris, symbole du début de la Révolution française.",
+      "fromVibe": false
     },
     {
       "id": "nuit-4-aout-1789",
@@ -405,6 +433,16 @@
       "fromVibe": true
     },
     {
+      "id": "congres-de-vienne-1815",
+      "name": "Congrès de Vienne",
+      "start": "1814",
+      "end": "1815-06-09",
+      "type": "Période",
+      "category": "Politique",
+      "description": "Les puissances européennes redessinent la carte du continent pour effacer l'héritage de Napoléon ; la France vaincue est ramenée à ses frontières de 1790.",
+      "fromVibe": true
+    },
+    {
       "id": "abdication-1814",
       "name": "Première abdication de Napoléon",
       "start": "1814-04-06",
@@ -412,6 +450,26 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Napoléon abdique et reçoit l'île d'Elbe ; Louis XVIII monte sur le trône, la Restauration commence.",
+      "fromVibe": true
+    },
+    {
+      "id": "charte-1814",
+      "name": "Charte constitutionnelle",
+      "start": "1814-06-04",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Louis XVIII rétablit la monarchie mais conserve les acquis de la Révolution : égalité civile, Code civil, propriété.",
+      "fromVibe": true
+    },
+    {
+      "id": "terreur-blanche-1815",
+      "name": "Terreur blanche",
+      "start": "1815",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Vague de violence royaliste contre les bonapartistes et les révolutionnaires après le retour définitif de Louis XVIII.",
       "fromVibe": true
     },
     {
@@ -462,6 +520,326 @@
       "type": "Événement",
       "category": "Politique",
       "description": "L'empereur meurt en exil sur l'île de Sainte-Hélène, dans l'Atlantique sud, à 51 ans.",
+      "fromVibe": true
+    },
+    {
+      "id": "milliard-des-emigres-1825",
+      "name": "Milliard des émigrés",
+      "start": "1825",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Loi d'indemnisation d'un milliard de francs aux nobles dont les biens avaient été vendus pendant la Révolution.",
+      "fromVibe": true
+    },
+    {
+      "id": "sacre-charles-x-1825",
+      "name": "Sacre de Charles X à Reims",
+      "start": "1825-05-29",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Le roi se fait sacrer comme au Moyen Âge ; son règne réactionnaire (loi sur le sacrilège) heurte la France libérale.",
+      "fromVibe": true
+    },
+    {
+      "id": "ordonnances-saint-cloud-1830",
+      "name": "Ordonnances de Saint-Cloud",
+      "start": "1830-07-25",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Charles X suspend la liberté de la presse, dissout la chambre et truque les élections : un coup d'État sur le papier qui déclenche la révolution.",
+      "fromVibe": true
+    },
+    {
+      "id": "trois-glorieuses-1830",
+      "name": "Les Trois Glorieuses",
+      "start": "1830-07-27",
+      "end": "1830-07-29",
+      "type": "Période",
+      "category": "Politique",
+      "description": "Trois jours de barricades à Paris renversent Charles X ; une partie de l'armée refuse de tirer sur la foule.",
+      "fromVibe": true
+    },
+    {
+      "id": "abdication-charles-x-1830",
+      "name": "Abdication de Charles X",
+      "start": "1830-08-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le dernier roi de la branche aînée des Bourbons abdique à Rambouillet et s'exile en Angleterre.",
+      "fromVibe": true
+    },
+    {
+      "id": "louis-philippe-roi-1830",
+      "name": "Louis-Philippe, roi des Français",
+      "start": "1830-08-09",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "La Fayette présente le duc d'Orléans à la foule, drapeau tricolore à la main : la monarchie de Juillet commence, « roi bourgeois » et vote réservé aux riches.",
+      "fromVibe": true
+    },
+    {
+      "id": "revolte-canuts-1831",
+      "name": "Révolte des canuts à Lyon",
+      "start": "1831-11-21",
+      "end": null,
+      "type": "Événement",
+      "category": "Économie",
+      "description": "Les ouvriers de la soie se soulèvent pour leurs salaires : première grande révolte ouvrière de l'industrialisation.",
+      "fromVibe": true
+    },
+    {
+      "id": "cholera-1832",
+      "name": "Épidémie de choléra à Paris",
+      "start": "1832",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "L'épidémie tue près de vingt mille Parisiens et attise la colère politique.",
+      "fromVibe": true
+    },
+    {
+      "id": "insurrection-lamarque-1832",
+      "name": "Insurrection républicaine de juin 1832",
+      "start": "1832-06-05",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Les funérailles du général Lamarque dégénèrent en insurrection ; Victor Hugo en fera le décor des Misérables.",
+      "fromVibe": true
+    },
+    {
+      "id": "chemin-de-fer-1837",
+      "name": "Première ligne de chemin de fer de voyageurs",
+      "start": "1837",
+      "end": null,
+      "type": "Événement",
+      "category": "Économie",
+      "description": "Inauguration de la ligne Paris – Saint-Germain : l'ère du rail commence, moteur de l'industrialisation française.",
+      "fromVibe": true
+    },
+    {
+      "id": "campagne-banquets-1847",
+      "name": "Campagne des banquets",
+      "start": "1847",
+      "end": "1848-02-22",
+      "type": "Période",
+      "category": "Politique",
+      "description": "Privée du droit de réunion, l'opposition dîne et réclame la réforme électorale dans des centaines de banquets à travers la France.",
+      "fromVibe": true
+    },
+    {
+      "id": "printemps-des-peuples-1848",
+      "name": "Printemps des peuples",
+      "start": "1848",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "La révolution française ébranle l'Europe : soulèvements à Vienne, Berlin, Milan et Rome.",
+      "fromVibe": true
+    },
+    {
+      "id": "revolution-fevrier-1848",
+      "name": "Révolution de février 1848",
+      "start": "1848-02-22",
+      "end": "1848-02-24",
+      "type": "Période",
+      "category": "Politique",
+      "description": "Un banquet interdit, une charge de la garde, trois journées d'émeute : Louis-Philippe abdique et s'enfuit, la Deuxième République est proclamée.",
+      "fromVibe": true
+    },
+    {
+      "id": "suffrage-universel-1848",
+      "name": "Suffrage universel masculin",
+      "start": "1848-03-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Du jour au lendemain, neuf millions d'hommes deviennent électeurs, contre deux cent mille sous Louis-Philippe.",
+      "fromVibe": true
+    },
+    {
+      "id": "elections-constituante-1848",
+      "name": "Élections à l'Assemblée constituante",
+      "start": "1848-04-23",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le suffrage universel envoie à l'assemblée une majorité de notables de province, méfiants envers les idées sociales de Paris.",
+      "fromVibe": true
+    },
+    {
+      "id": "abolition-esclavage-1848",
+      "name": "Abolition définitive de l'esclavage",
+      "start": "1848-04-27",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le décret porté par Victor Schœlcher abolit l'esclavage dans toutes les colonies françaises.",
+      "fromVibe": true
+    },
+    {
+      "id": "journees-juin-1848",
+      "name": "Journées de Juin",
+      "start": "1848-06-22",
+      "end": "1848-06-26",
+      "type": "Période",
+      "category": "Politique",
+      "description": "La fermeture des ateliers nationaux provoque l'insurrection ouvrière ; la répression du général Cavaignac fait plus d'un millier de morts. La République se divise.",
+      "fromVibe": true
+    },
+    {
+      "id": "election-louis-napoleon-1848",
+      "name": "Élection de Louis-Napoléon à la présidence",
+      "start": "1848-12-10",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Première élection présidentielle de l'histoire de France : le neveu de Napoléon l'emporte avec près de trois quarts des suffrages.",
+      "fromVibe": true
+    },
+    {
+      "id": "coup-etat-1851",
+      "name": "Coup d'État du 2 décembre",
+      "start": "1851-12-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le prince-président dissout l'Assemblée et fait arrêter l'opposition ; la résistance républicaine est réprimée, Victor Hugo s'exile. Un plébiscite entérine le coup d'État.",
+      "fromVibe": true
+    },
+    {
+      "id": "discours-bordeaux-1852",
+      "name": "« L'Empire, c'est la paix »",
+      "start": "1852-10-09",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "À Bordeaux, Louis-Napoléon lance la formule de son règne : promesse d'ordre, de prospérité et de paix.",
+      "fromVibe": true
+    },
+    {
+      "id": "second-empire-1852",
+      "name": "Proclamation du Second Empire",
+      "start": "1852-12-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Un an après le coup d'État, jour pour jour, Louis-Napoléon Bonaparte devient l'empereur Napoléon III.",
+      "fromVibe": true
+    },
+    {
+      "id": "haussmann-1853",
+      "name": "Haussmann préfet de la Seine",
+      "start": "1853-06-22",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le baron Haussmann entreprend les grands travaux : grands boulevards, égouts, parcs, eau courante — le Paris moderne naît.",
+      "fromVibe": true
+    },
+    {
+      "id": "guerre-crimee-1854",
+      "name": "Guerre de Crimée",
+      "start": "1854-03-27",
+      "end": "1856-03-30",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "La France s'allie à l'Angleterre contre la Russie ; la prise de Sébastopol et le traité de Paris rendent à la France son rang de grande puissance.",
+      "fromVibe": true
+    },
+    {
+      "id": "exposition-universelle-1855",
+      "name": "Exposition universelle de Paris",
+      "start": "1855-05-15",
+      "end": null,
+      "type": "Événement",
+      "category": "Culture",
+      "description": "Le Paris modernisé du Second Empire se montre au monde entier.",
+      "fromVibe": true
+    },
+    {
+      "id": "guerre-italie-1859",
+      "name": "Guerre d'Italie",
+      "start": "1859-04-29",
+      "end": "1859-07-11",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "La France aide le Piémont contre l'Autriche : victoires de Magenta et de Solférino, la France reçoit la Savoie et Nice.",
+      "fromVibe": true
+    },
+    {
+      "id": "magenta-1859",
+      "name": "Bataille de Magenta",
+      "start": "1859-06-04",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Victoire française en Lombardie sur les Autrichiens.",
+      "fromVibe": true
+    },
+    {
+      "id": "solferino-1859",
+      "name": "Bataille de Solférino",
+      "start": "1859-06-24",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Victoire décisive ; le spectacle des blessés abandonnés inspire à Henri Dunant la création de la Croix-Rouge.",
+      "fromVibe": true
+    },
+    {
+      "id": "libre-echange-1860",
+      "name": "Traité de libre-échange franco-britannique",
+      "start": "1860-01-23",
+      "end": null,
+      "type": "Événement",
+      "category": "Économie",
+      "description": "Le traité Cobden-Chevalier ouvre le marché français aux manufactures britanniques : tournant libéral du Second Empire.",
+      "fromVibe": true
+    },
+    {
+      "id": "rattachement-savoie-nice-1860",
+      "name": "Rattachement de la Savoie et de Nice",
+      "start": "1860-03-24",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le traité de Turin donne à la France la Savoie et le comté de Nice en échange de son aide à l'unité italienne.",
+      "fromVibe": true
+    },
+    {
+      "id": "loi-greve-1864",
+      "name": "Autorisation du droit de grève",
+      "start": "1864-05-25",
+      "end": null,
+      "type": "Événement",
+      "category": "Économie",
+      "description": "La loi Ollier autorise la coalition et la grève : première grande reconnaissance du monde ouvrier depuis 1791.",
+      "fromVibe": true
+    },
+    {
+      "id": "plebiscite-1870",
+      "name": "Plébiscite libéral du Second Empire",
+      "start": "1870-05-08",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Les Français approuvent massivement l'Empire devenu libéral : le régime semble au sommet de sa force.",
+      "fromVibe": true
+    },
+    {
+      "id": "guerre-prusse-1870",
+      "name": "Déclaration de guerre à la Prusse",
+      "start": "1870-07-19",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Trois mois après son triomphe plébiscitaire, Napoléon III entraîne la France dans la guerre qui la perdra : la fin de l'Empire commence.",
       "fromVibe": true
     }
   ]
