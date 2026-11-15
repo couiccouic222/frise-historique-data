@@ -69,6 +69,27 @@
       "end": "1870",
       "color": "#dc2626",
       "type": "Période"
+    },
+    {
+      "name": "Troisième République",
+      "start": "1870",
+      "end": "1940",
+      "color": "#3b82f6",
+      "type": "Période"
+    },
+    {
+      "name": "Commune de Paris",
+      "start": "1871-03-18",
+      "end": "1871-05-28",
+      "color": "#ef4444",
+      "type": "Période"
+    },
+    {
+      "name": "Semaine sanglante",
+      "start": "1871-05-21",
+      "end": "1871-05-28",
+      "color": "#7f1d1d",
+      "type": "Période"
     }
   ],
   "events": [
@@ -543,6 +564,16 @@
       "fromVibe": true
     },
     {
+      "id": "naissance-louise-michel-1830",
+      "name": "Naissance de Louise Michel",
+      "start": "1830-05-29",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Naissance à Vroncourt-la-Côte (Haute-Marne) de Louise Michel, future institutrice, écrivaine et militante anarchiste, figure majeure de la Commune de Paris.",
+      "fromVibe": true
+    },
+    {
       "id": "ordonnances-saint-cloud-1830",
       "name": "Ordonnances de Saint-Cloud",
       "start": "1830-07-25",
@@ -840,6 +871,96 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Trois mois après son triomphe plébiscitaire, Napoléon III entraîne la France dans la guerre qui la perdra : la fin de l'Empire commence.",
+      "fromVibe": true
+    },
+    {
+      "id": "sedan-1870",
+      "name": "Défaite de Sedan",
+      "start": "1870-09-01",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "L'armée française est écrasée à Sedan ; Napoléon III est fait prisonnier. Le Second Empire s'effondre en quelques jours.",
+      "fromVibe": true
+    },
+    {
+      "id": "troisieme-republique-1870",
+      "name": "Proclamation de la Troisième République",
+      "start": "1870-09-04",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "À la nouvelle du désastre de Sedan, les Parisiens proclament la République à l'hôtel de ville. Le siège de la capitale par les Prussiens commence.",
+      "fromVibe": true
+    },
+    {
+      "id": "proclamation-commune-1871",
+      "name": "Proclamation de la Commune de Paris",
+      "start": "1871-03-28",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Après l'insurrection du 18 mars, la Commune est proclamée à l'Hôtel de Ville : 72 jours de gouvernement révolutionnaire. Louise Michel combat au 61e bataillon de Montmartre, sur les barricades et comme ambulancière.",
+      "fromVibe": true
+    },
+    {
+      "id": "proces-louise-michel-1871",
+      "name": "Procès de Louise Michel",
+      "start": "1871-12-16",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Devant le conseil de guerre, Louise Michel brave ses juges et réclame la mort : « Si vous n'êtes pas des lâches, tuez-moi. » Condamnée à la déportation dans une enceinte fortifiée ; Victor Hugo lui dédie le poème « Viro Major ».",
+      "fromVibe": true
+    },
+    {
+      "id": "deportation-louise-michel-1873",
+      "name": "Déportation de Louise Michel en Nouvelle-Calédonie",
+      "start": "1873-08-09",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Embarquée à Saint-Martin-de-Ré, elle rejoint en décembre la presqu'île Ducos. En sept ans d'exil, elle instruit les Kanaks et prend leur défense lors de leur révolte de 1878 ; elle y devient anarchiste.",
+      "fromVibe": true
+    },
+    {
+      "id": "amnistie-communards-1880",
+      "name": "Amnistie des communards",
+      "start": "1880-07-12",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Votée le 11 juillet et promulguée le 12 juillet 1880, la loi d'amnistie permet aux communards condamnés ou exilés de rentrer en France.",
+      "fromVibe": true
+    },
+    {
+      "id": "retour-louise-michel-1880",
+      "name": "Retour de Louise Michel en France",
+      "start": "1880-11-09",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Amnistiée, Louise Michel débarque à Dieppe et rentre à Paris, acclamée par la foule : « Vive Louise Michel ! Vive la Commune ! ». Elle reprend jusqu'à sa mort son combat en faveur des prolétaires.",
+      "fromVibe": true
+    },
+    {
+      "id": "manifestation-drapeau-noir-1883",
+      "name": "Manifestation des sans-travail et drapeau noir",
+      "start": "1883-03-09",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Avec Émile Pouget, Louise Michel mène aux Invalides la manifestation des chômeurs en arborant le drapeau noir : « J'arborerai le drapeau noir, portant le deuil de nos morts et de nos illusions. » Le noir devient l'étendard de l'anarchisme.",
+      "fromVibe": true
+    },
+    {
+      "id": "mort-louise-michel-1905",
+      "name": "Mort de Louise Michel",
+      "start": "1905-01-09",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Louise Michel meurt à Marseille à 74 ans ; ses funérailles rassemblent à Paris des milliers de personnes. Elle est inhumée au cimetière de Levallois-Perret.",
       "fromVibe": true
     }
   ]
