@@ -274,6 +274,16 @@
       "fromVibe": true
     },
     {
+      "id": "levee-en-masse-1793",
+      "name": "Levée en masse",
+      "start": "1793-08-23",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "La Convention décrète que « toute la République appelle ses citoyens à sa défense » : un million d'hommes sont mobilisés. Naissance de la conscription et des armées de masse modernes.",
+      "fromVibe": true
+    },
+    {
       "id": "la-terreur-1793-1794",
       "name": "La Terreur",
       "start": "1793-09-17",
@@ -304,6 +314,16 @@
       "fromVibe": true
     },
     {
+      "id": "fleurus-1794",
+      "name": "Bataille de Fleurus",
+      "start": "1794-06-26",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Victoire décisive sur les Autrichiens en Belgique : l'invasion est définitivement repoussée et les armées révolutionnaires conquièrent au-delà des frontières.",
+      "fromVibe": true
+    },
+    {
       "id": "thermidor-1794",
       "name": "Chute de Robespierre (9 Thermidor)",
       "start": "1794-07-27",
@@ -321,6 +341,16 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le général Bonaparte disperse une insurrection royaliste à coups de canon dans les rues de Paris.",
+      "fromVibe": true
+    },
+    {
+      "id": "debut-directoire-1795",
+      "name": "Début du Directoire",
+      "start": "1795-11-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "La Constitution de l'an III entre en vigueur : le pouvoir exécutif est confié à cinq directeurs. Régime instable et corromtu, le Directoire survivra quatre ans, porté par les victoires militaires.",
       "fromVibe": true
     },
     {
@@ -351,6 +381,16 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Bonaparte renverse le Directoire et devient Premier consul : la Révolution s'achève.",
+      "fromVibe": true
+    },
+    {
+      "id": "banque-de-france-1800",
+      "name": "Création de la Banque de France",
+      "start": "1800-01-18",
+      "end": null,
+      "type": "Événement",
+      "category": "Économie",
+      "description": "Le Premier consul fonde la Banque de France pour remettre de l'ordre dans la monnaie ruinée par l'assignat et financer le commerce : elle deviendra la banque centrale, toujours en activité.",
       "fromVibe": true
     },
     {
