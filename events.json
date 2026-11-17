@@ -433,7 +433,11 @@
       "description": "Vainqueur de Darius III, Alexandre le Grand s'empare de Persépolis et fonde un empire s'étendant de la Grèce à l'Indus.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Empire perse"
+      "country": "Empire perse",
+      "countries": [
+        "Empire perse",
+        "Grèce"
+      ]
     },
     {
       "id": "mort-alexandre--323",
@@ -587,7 +591,7 @@
       "description": "À la mort de Trajan, l'Empire atteint son extension maximale, environ 5 millions de km² : de la Bretagne à l'Égypte, de l'Atlantique à la Mésopotamie.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Empire romain"
+      "country": "Rome"
     },
     {
       "id": "mur-hadrien-122",
@@ -611,7 +615,7 @@
       "description": "Caracalla accorde la citoyenneté romaine à tous les habitants libres de l'Empire : l'unité juridique du monde romain est achevée.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Empire romain"
+      "country": "Rome"
     },
     {
       "id": "crise-troisieme-siecle-235",
@@ -623,7 +627,7 @@
       "description": "De 235 à 284, invasions germaniques et perses, peste, inflation et une trentaine d'empereurs éphémères faillirent briser l'Empire.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Empire romain"
+      "country": "Rome"
     },
     {
       "id": "tetrarchie-diocletien-293",
@@ -635,7 +639,7 @@
       "description": "Dioclétien partage le pouvoir entre deux Augustes et deux Césars pour mieux défendre l'Empire et met fin à la crise du IIIe siècle.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Empire romain"
+      "country": "Rome"
     },
     {
       "id": "bataille-pont-milvius-312",
@@ -693,7 +697,7 @@
       "description": "À la mort de Théodose, l'Empire est définitivement partagé entre Occident (Rome/Ravenne) et Orient (Constantinople) : les deux destins se séparent.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Empire romain"
+      "country": "Rome"
     },
     {
       "id": "sac-rome-alari-410",
@@ -747,7 +751,11 @@
       "description": "À Guadalete, les troupes arabo-berbères de Tariq ibn Ziyad écrasent le roi wisigoth Rodrigue : début d'al-Andalus, huit siècles de civilisation islamique en Espagne.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Monde musulman"
+      "country": "Monde musulman",
+      "countries": [
+        "Monde musulman",
+        "Espagne"
+      ]
     },
     {
       "id": "couronnement-charlemagne-800",
@@ -767,7 +775,11 @@
       "description": "Guillaume le Conquérant vainc et tue Harold II ; l'Angleterre bascule dans l'orbite normande et latine, fondant le royaume anglo-normand.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Angleterre"
+      "country": "Angleterre",
+      "countries": [
+        "Angleterre",
+        "France"
+      ]
     },
     {
       "id": "gengis-khan-1206",
@@ -846,7 +858,11 @@
       "description": "Après un siège de deux mois, Mehmed II prend Constantinople ; la capitale de l'Empire romain d'Orient devient Istanbul, capitale ottomane.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Empire byzantin"
+      "country": "Empire byzantin",
+      "countries": [
+        "Empire byzantin",
+        "Turquie"
+      ]
     },
     {
       "id": "colomb-1492",
@@ -1398,7 +1414,13 @@
       "description": "Les puissances européennes redessinent la carte du continent pour effacer l'héritage de Napoléon ; la France vaincue est ramenée à ses frontières de 1790.",
       "fromVibe": true,
       "priority": 2,
-      "country": "Autriche"
+      "country": "Autriche",
+      "countries": [
+        "Autriche",
+        "France",
+        "Angleterre",
+        "Russie"
+      ]
     },
     {
       "id": "abdication-1814",
@@ -1470,7 +1492,11 @@
       "description": "Défaite définitive contre les Anglais de Wellington et les Prussiens de Blücher.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "countries": [
+        "France",
+        "Angleterre"
+      ]
     },
     {
       "id": "seconde-abdication-1815",
@@ -1782,7 +1808,13 @@
       "description": "La France s'allie à l'Angleterre contre la Russie ; la prise de Sébastopol et le traité de Paris rendent à la France son rang de grande puissance.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "countries": [
+        "France",
+        "Angleterre",
+        "Russie",
+        "Turquie"
+      ]
     },
     {
       "id": "exposition-universelle-1855",
@@ -1890,7 +1922,11 @@
       "description": "Trois mois après son triomphe plébiscitaire, Napoléon III entraîne la France dans la guerre qui la perdra : la fin de l'Empire commence.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "countries": [
+        "France",
+        "Allemagne"
+      ]
     },
     {
       "id": "sedan-1870",
@@ -1902,7 +1938,11 @@
       "description": "L'armée française est écrasée à Sedan ; Napoléon III est fait prisonnier. Le Second Empire s'effondre en quelques jours.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "countries": [
+        "France",
+        "Allemagne"
+      ]
     },
     {
       "id": "troisieme-republique-1870",
