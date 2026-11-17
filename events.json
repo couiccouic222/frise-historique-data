@@ -90,9 +90,499 @@
       "end": "1871-05-28",
       "color": "#7f1d1d",
       "type": "Période"
+    },
+    {
+      "name": "Empire romain",
+      "start": "-27",
+      "end": "476",
+      "color": "#f87171",
+      "type": "Période"
+    },
+    {
+      "name": "Monde musulman médiéval",
+      "start": "622",
+      "end": "1258",
+      "color": "#4ade80",
+      "type": "Période"
+    },
+    {
+      "name": "Âge des découvertes",
+      "start": "1415",
+      "end": "1600",
+      "color": "#22d3ee",
+      "type": "Période"
+    },
+    {
+      "name": "XXe siècle",
+      "start": "1900",
+      "end": "2000",
+      "color": "#e879f9",
+      "type": "Période"
     }
   ],
   "events": [
+    {
+      "id": "unification-egypte--3100",
+      "name": "Unification de l'Égypte par Narmer",
+      "start": "-3100",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le roi de Haute-Égypte Narmer ( Ménès) unifie la Haute et la Basse-Égypte, fondant la Ire dynastie et l'État pharaonique qui durera trois millénaires.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "pyramide-kheops--2560",
+      "name": "Construction de la grande pyramide de Khéops",
+      "start": "-2560",
+      "end": "-2540",
+      "type": "Événement",
+      "category": "Culture",
+      "description": "Édifiée à Gizeh pendant le règne de Khéops (IVe dynastie), la grande pyramide reste la plus haute construction humaine pendant 3 800 ans.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "code-hammurabi--1792",
+      "name": "Promulgation du code d'Hammurabi",
+      "start": "-1792",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Roi de Babylone, Hammurabi fait graver sur une stèle de diorite un code de 282 lois, dont la célèbre « loi du talion » : « œil pour œil, dent pour dent ».",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "toutankhamon--1323",
+      "name": "Avènement de Toutânkhamon",
+      "start": "-1333",
+      "end": null,
+      "type": "Personnage",
+      "category": "Politique",
+      "description": "Le « pharaon-enfant » monte sur le trône à 9 ans et restaure le culte d'Amon. Sa tombe, découverte intacte en 1922 par Carter, fait sa légende mondiale.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "ramses-ii--1279",
+      "name": "Avènement de Ramsès II",
+      "start": "-1279",
+      "end": "-1213",
+      "type": "Personnage",
+      "category": "Politique",
+      "description": "Règne de 66 ans, le plus long de l'Égypte ancienne : batailles de Qadesh, temples d'Abou Simbel, paix avec les Hittites.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "jeux-olympiques--776",
+      "name": "Premiers Jeux olympiques d'Olympie",
+      "start": "-776",
+      "end": null,
+      "type": "Événement",
+      "category": "Culture",
+      "description": "Institutionnellement fondés en l'honneur de Zeus, les Jeux d'Olympie rassemblent les cités grecques tous les quatre ans pendant près de 12 siècles.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "fondation-rome--753",
+      "name": "Fondation légendaire de Rome",
+      "start": "-753-04-21",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Selon la légende, Romulus fonde Rome sur le Palatin après avoir tué son frère Remus ; la ville deviendra la capitale d'un empire mondial.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "naissance-bouddha--563",
+      "name": "Naissance du Bouddha (Siddhartha Gautama)",
+      "start": "-563",
+      "end": "-483",
+      "type": "Personnage",
+      "category": "Religion",
+      "description": "Prince de Kapilavastu, Siddhartha Gautama devient le Bouddha « l'Éveillé » après son illumination sous l'arbre de la Bodhi ; sa doctrine fonde le bouddhisme.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "cyrus-babylone--539",
+      "name": "Cyrus le Grand prend Babylone",
+      "start": "-539-10-12",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Fondateur de l'empire perse achéménide, Cyrus entre dans Babylone sans combat ; son cylindre, première charte des droits humains, proclame la liberté des cultes.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "republique-romaine--509",
+      "name": "Fin de la royauté, République romaine",
+      "start": "-509",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Après l'expulsion du dernier roi Tarquin le Superbe, Rome instaure la République : deux consuls élus, un Sénat, des assemblées citoyennes.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "clisthene--508",
+      "name": "Réformes de Clisthène, naissance de la démocratie athénienne",
+      "start": "-508",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Clisthène réorganise Athènes en dix tribus et crée l'Ecclésia et la Boulè : le démos exerce désormais le pouvoir, fondant la démocratie.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "salamine--480",
+      "name": "Bataille de Salamine",
+      "start": "-480-09-20",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "La flotte grecque anéantit la marine perse de Xerxès dans le détroit de Salamine, sauvant l'indépendance des cités grecques.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "parthenon--447",
+      "name": "Début de la construction du Parthénon",
+      "start": "-447",
+      "end": "-438",
+      "type": "Événement",
+      "category": "Culture",
+      "description": "Périclès lance l'édification du temple d'Athéna Parthénos sur l'Acropole, chef-d'œuvre de l'architecture dorique.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "alexandre-roi--336",
+      "name": "Avènement d'Alexandre le Grand",
+      "start": "-336",
+      "end": null,
+      "type": "Personnage",
+      "category": "Politique",
+      "description": "À 20 ans, Alexandre succède à son père Philippe II de Macédoine, déjà vainqueur de la Grèce à Chéronée.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "arbeles--331",
+      "name": "Bataille d'Arbèles, Alexandre s'empare de l'empire perse",
+      "start": "-331-10-01",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Vainqueur de Darius III, Alexandre le Grand s'empare de Persépolis et fonde un empire s'étendant de la Grèce à l'Indus.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "mort-alexandre--323",
+      "name": "Mort d'Alexandre le Grand à Babylone",
+      "start": "-323-06-10",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Alexandre meurt à 32 ans après avoir conquis l'empire perse ; son empire est aussitôt partagé entre ses généraux (les Diadoques).",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "empire-maurya--322",
+      "name": "Chandragupta Maurya fonde l'empire maurya",
+      "start": "-322",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Ayant chassé les Grecs d'Alexandre, Chandragupta unifie presque tout le sous-continent indien ; son petit-fils Ashoka le convertira au bouddhisme.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "unification-chine-qin--221",
+      "name": "Unification de la Chine par Qin Shi Huangdi",
+      "start": "-221",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le premier empereur unifie la Chine, standardise écriture, poids et mesures, et lance la Grande Muraille ; sa dynastie donne son nom au pays (Chine).",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "assassinat-cesar--44",
+      "name": "Assassinat de Jules César",
+      "start": "-44-03-15",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Poignardé au Sénat par une vingtaine de conjurés menés par Brutus et Cassius, César meurt aux ides de mars, plongeant Rome dans la guerre civile.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "auguste-principat--27",
+      "name": "Auguste fonde le Principat, début de l'Empire romain",
+      "start": "-27",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Octave reçoit du Sénat le titre d'Auguste et concentre les pouvoirs : Rome cesse d'être une République et devient un empire qui durera cinq siècles en Occident.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "vesuve-79",
+      "name": "Éruption du Vésuve, destruction de Pompéi",
+      "start": "79-08-24",
+      "end": null,
+      "type": "Événement",
+      "category": "Autre",
+      "description": "L'éruption du Vésuve ensevelit Pompéi et Herculanum sous plusieurs mètres de cendres, les préservant jusqu'à leur redécouverte au XVIIIe siècle.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "papier-cai-lun-105",
+      "name": "Invention du papier par Cai Lun",
+      "start": "105",
+      "end": null,
+      "type": "Découverte",
+      "category": "Science",
+      "description": "Eunuque à la cour des Han, Cai Lun perfectionne la fabrication du papier à partir d'écorce et de chiffons : révolution de l'écriture et de la diffusion du savoir.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "edit-de-milan-313",
+      "name": "Édit de Milan, tolérance du christianisme",
+      "start": "313",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Constantin et Licinius accordent la liberté de culte aux chrétiens dans l'Empire romain, mettant fin aux persécutions.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "chute-rome-476",
+      "name": "Chute de l'Empire romain d'Occident",
+      "start": "476-09-04",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le chef barbare Odoacre dépose le jeune Romulus Augustule, dernier empereur d'Occident : date symbolique de la fin de l'Antiquité.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "hegire-622",
+      "name": "Hégire de Mahomet, début du calendrier musulman",
+      "start": "622-07-16",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Fuyant La Mecque pour Médine (Yathrib), Mahomet fonde la première communauté musulmane (oumma) ; l'année 622 devient l'an 1 de l'hégire.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "conquete-hispanie-711",
+      "name": "Conquête musulmane de l'Hispanie",
+      "start": "711-07-19",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "À Guadalete, les troupes arabo-berbères de Tariq ibn Ziyad écrasent le roi wisigoth Rodrigue : début d'al-Andalus, huit siècles de civilisation islamique en Espagne.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "couronnement-charlemagne-800",
+      "name": "Couronnement de Charlemagne, empereur d'Occident",
+      "start": "800-12-25",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Couronné à Rome par le pape Léon III, Charlemagne restaure un empire chrétien en Occident et favorise la « renaissance carolingienne ».",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "hastings-1066",
+      "name": "Bataille d'Hastings, conquête normande de l'Angleterre",
+      "start": "1066-10-14",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Guillaume le Conquérant vainc et tue Harold II ; l'Angleterre bascule dans l'orbite normande et latine, fondant le royaume anglo-normand.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "gengis-khan-1206",
+      "name": "Gengis Khan proclamé chef suprême des Mongols",
+      "start": "1206",
+      "end": null,
+      "type": "Personnage",
+      "category": "Politique",
+      "description": "Temüjin est proclamé « Khan universel » à la kurultaï ; il forge le plus vaste empire continental de l'histoire, de la Chine à la Pologne.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "magna-carta-1215",
+      "name": "Magna Carta, le roi d'Angleterre borné par la loi",
+      "start": "1215-06-15",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Arraché au roi Jean sans Terre, ce texte de 63 articles proclame que nul, pas même le roi, n'est au-dessus de la loi — acte fondateur du constitutionnalisme.",
+      "priority": 2,
+      "fromVibe": true
+    },
+    {
+      "id": "chute-bagdad-1258",
+      "name": "Prise et sac de Bagdad par les Mongols",
+      "start": "1258-02-10",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Hülegü met fin au califat abbasside : Bagdad, capitale intellectuelle du monde musulman, est rasée et le calife exécuté.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "mansa-moussa-1324",
+      "name": "Pèlerinage de Mansa Moussa à La Mecque",
+      "start": "1324-07",
+      "end": "1325",
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Le roi du Mali traverse l'Afrique avec une caravane de 60 000 hommes et distribue tant d'or au Caire que le cours du métal s'effondre en Égypte.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "tenochtitlan-1325",
+      "name": "Fondation de Tenochtitlan, capitale aztèque",
+      "start": "1325-03-13",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Selon la légende, les Mexicas fondent leur capitale sur une île du lac Texcoco, au lieu même où un aigle posé sur un cactus tenait un serpent dans son bec.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "peste-noire-1347",
+      "name": "La peste noire atteint l'Europe",
+      "start": "1347-10",
+      "end": "1352",
+      "type": "Événement",
+      "category": "Autre",
+      "description": "Arrivée à Messine en Sicile, la peste bubonique tue entre un tiers et la moitié de la population européenne en cinq ans, bouleversant économie et société.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "empire-inca-1438",
+      "name": "Début de l'expansion de l'empire inca sous Pachacuti",
+      "start": "1438",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Pachacuti transforme le royaume de Cuzco en un empire s'étendant sur 4 000 km le long des Andes, relié par un réseau de 30 000 km de routes.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "chute-constantinople-1453",
+      "name": "Chute de Constantinople, fin de l'Empire byzantin",
+      "start": "1453-05-29",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Après un siège de deux mois, Mehmed II prend Constantinople ; la capitale de l'Empire romain d'Orient devient Istanbul, capitale ottomane.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "colomb-1492",
+      "name": "Christophe Colomb atteint les Amériques",
+      "start": "1492-10-12",
+      "end": null,
+      "type": "Découverte",
+      "category": "Autre",
+      "description": "En cherchant une route ouest vers les Indes, Colomb touche une île des Bahamas : début de la conquête et de la colonisation européenne des Amériques.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "luther-95-theses-1517",
+      "name": "Les 95 thèses de Luther, début de la Réforme",
+      "start": "1517-10-31",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Affichées à Wittenberg, les thèses de Luther dénoncent la vente des indulgences et provoquent la rupture religieuse de l'Europe occidentale.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "empire-moghol-1526",
+      "name": "Babur fonde l'empire moghol en Inde",
+      "start": "1526-04-21",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "À la bataille de Panipat, Babur écrase l'armée du sultan de Delhi avec ses canons et ses archers montés : début de deux siècles de domination moghole.",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "shogunat-tokugawa-1603",
+      "name": "Début du shogunat Tokugawa au Japon",
+      "start": "1603-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Tokugawa Ieyasu reçoit le titre de shogun et fonde un gouvernement militaire qui isolera le Japon du monde pendant 250 ans (sakoku).",
+      "priority": 3,
+      "fromVibe": true
+    },
+    {
+      "id": "newton-principia-1687",
+      "name": "Publication des Principia de Newton",
+      "start": "1687-07-05",
+      "end": null,
+      "type": "Découverte",
+      "category": "Science",
+      "description": "Isaac Newton énonce les lois du mouvement et la gravitation universelle : fondement de la mécanique classique et de la science moderne.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "independance-usa-1776",
+      "name": "Déclaration d'indépendance des États-Unis",
+      "start": "1776-07-04",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Les Treize Colonies proclament leur indépendance à Philadelphie, fondant les États-Unis sur les principes des droits naturels et du consentement des gouvernés.",
+      "priority": 1,
+      "fromVibe": true
+    },
     {
       "id": "etats-generaux-1789",
       "name": "Réunion des États généraux",
@@ -1093,6 +1583,44 @@
       "description": "Louise Michel meurt à Marseille à 74 ans ; ses funérailles rassemblent à Paris des milliers de personnes. Elle est inhumée au cimetière de Levallois-Perret.",
       "fromVibe": true,
       "priority": 3
-    }
-  ]
-}
+    },
+    {
+      "id": "ww1-1914",
+      "name": "Début de la Première Guerre mondiale",
+      "start": "1914-07-28",
+      "end": "1918-11-11",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "L'attentat de Sarajevo dégénère en conflit mondial : 17 millions de morts, quatre empires s'effondrent, et l'Europe sort bouleversée de la « Grande Guerre ».",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "revolution-russe-1917",
+      "name": "Révolution d'Octobre en Russie",
+      "start": "1917-11-07",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Les bolcheviks de Lénine prennent le Palais d'Hiver à Petrograd et proclament le pouvoir des soviets : naissance de l'URSS, premier État communiste.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "krach-1929",
+      "name": "Krach boursier de Wall Street",
+      "start": "1929-10-24",
+      "end": null,
+      "type": "Événement",
+      "category": "Économie",
+      "description": "Le « jeudi noir », la Bourse de New York s'effondre et entraîne la Grande Dépression, crise économique mondiale des années 1930.",
+      "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "ww2-1939",
+      "name": "Seconde Guerre mondiale",
+      "start": "1939-09-01",
+      "end": "1945-09-02",
+      "type": "Période",
+      "category": "Guerre",
