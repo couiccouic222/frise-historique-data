@@ -101,7 +101,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Louis XVI réunit les États généraux à Versailles pour résoudre la crise financière du royaume. Blocage immédiat sur la question du vote par tête ou par ordre.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "assemblee-nationale-1789",
@@ -111,7 +112,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le tiers état, affirmant représenter la nation entière, se proclame Assemblée nationale : acte de naissance politique de la Révolution.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "serment-jeu-de-paume-1789",
@@ -121,7 +123,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Les députés jurent de ne pas se séparer avant d'avoir donné une constitution à la France.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "ex-1",
@@ -131,7 +134,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Prise de la forteresse de la Bastille à Paris, symbole du début de la Révolution française.",
-      "fromVibe": false
+      "fromVibe": false,
+      "priority": 1
     },
     {
       "id": "nuit-4-aout-1789",
@@ -141,7 +145,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "L'Assemblée nationale abolit les privilèges féodaux : la société d'ordres est détruite en une nuit.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "ddhc-1789",
@@ -151,7 +156,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Liberté, égalité devant la loi, souveraineté de la nation : texte fondateur toujours au sommet du droit français.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "marche-femmes-versailles-1789",
@@ -161,7 +167,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Des Parisiennes marchent sur Versailles ; le roi est ramené à Paris et placé sous la surveillance du peuple.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "constitution-civile-clerge-1790",
@@ -171,7 +178,8 @@
       "type": "Événement",
       "category": "Religion",
       "description": "L'Église de France passe sous le contrôle de l'État ; les prêtres doivent prêter serment, ce qui divise profondément le pays.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "fuite-varennes-1791",
@@ -181,7 +189,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Louis XVI tente de fuir à l'étranger avec sa famille ; reconnu et arrêté à Varennes, il perd définitivement la confiance des Français.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "constitution-1791",
@@ -191,7 +200,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "La France devient une monarchie constitutionnelle : le roi partage le pouvoir avec une assemblée élue.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "guerre-autriche-1792",
@@ -201,7 +211,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "La France révolutionnaire déclare la guerre à l'Autriche, bientôt rejointe par la Prusse. La guerre va radicaliser la Révolution.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "prise-tuileries-1792",
@@ -211,7 +222,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Les Parisiens prennent d'assaut le palais des Tuileries ; le roi est suspendu puis emprisonné.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "discours-danton-1792",
@@ -221,7 +233,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Face à l'invasion prussienne, Danton appelle à l'audace : « De l'audace, encore de l'audace, toujours de l'audace, et la France est sauvée ! »",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "valmy-1792",
@@ -231,7 +244,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Les canons français arrêtent l'invasion prussienne : première victoire de la République naissante.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "premiere-republique-1792",
@@ -241,7 +255,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "La Convention nationale abolit la monarchie et proclame la République.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "guerre-vendee-1793-1796",
@@ -251,7 +266,8 @@
       "type": "Période",
       "category": "Guerre",
       "description": "La levée de 300 000 hommes provoque l'insurrection vendéenne : guerre civile dévastatrice entre paysans et armées républicaines.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "execution-louis-xvi-1793",
@@ -261,7 +277,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le roi, jugé pour trahison par la Convention, est guillotiné place de la Révolution. L'Europe entière se ligue contre la France.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "assassinat-marat-1793",
@@ -271,7 +288,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Charlotte Corday poignarde le journaliste radical Jean-Paul Marat dans son bain.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "levee-en-masse-1793",
@@ -281,7 +299,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "La Convention décrète que « toute la République appelle ses citoyens à sa défense » : un million d'hommes sont mobilisés. Naissance de la conscription et des armées de masse modernes.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 3
     },
     {
       "id": "la-terreur-1793-1794",
@@ -291,7 +310,8 @@
       "type": "Période",
       "category": "Politique",
       "description": "De la loi des suspects à l'exécution de Robespierre : environ 16 500 condamnations à mort et 10 000 morts en prison (chiffres débattus).",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "execution-marie-antoinette-1793",
@@ -301,7 +321,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "La reine est guillotinée pendant la Terreur.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "execution-danton-1794",
@@ -311,7 +332,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Danton et ses partisans, devenus favorables à la clémence, sont guillotinés à l'instigation du Comité de salut public.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "fleurus-1794",
@@ -321,7 +343,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Victoire décisive sur les Autrichiens en Belgique : l'invasion est définitivement repoussée et les armées révolutionnaires conquièrent au-delà des frontières.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "thermidor-1794",
@@ -331,7 +354,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "La Convention arrête Robespierre, guillotiné le lendemain avec Saint-Just et ses partisans : la Terreur s'arrête.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "vendemiaire-1795",
@@ -341,7 +365,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le général Bonaparte disperse une insurrection royaliste à coups de canon dans les rues de Paris.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "debut-directoire-1795",
@@ -351,7 +376,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "La Constitution de l'an III entre en vigueur : le pouvoir exécutif est confié à cinq directeurs. Régime instable et corromtu, le Directoire survivra quatre ans, porté par les victoires militaires.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 3
     },
     {
       "id": "campagne-italie-1796-1797",
@@ -361,7 +387,8 @@
       "type": "Période",
       "category": "Guerre",
       "description": "Les campagnes foudroyantes du général Bonaparte écrasent l'Autriche en Italie et le rendent immensément populaire.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "expedition-egypte-1798-1801",
@@ -371,7 +398,8 @@
       "type": "Période",
       "category": "Guerre",
       "description": "Bonaparte part conquérir l'Égypte avec des savants ; l'expédition découvre notamment la pierre de Rosette.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "brumaire-1799",
@@ -381,7 +409,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Bonaparte renverse le Directoire et devient Premier consul : la Révolution s'achève.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "banque-de-france-1800",
@@ -391,7 +420,8 @@
       "type": "Événement",
       "category": "Économie",
       "description": "Le Premier consul fonde la Banque de France pour remettre de l'ordre dans la monnaie ruinée par l'assignat et financer le commerce : elle deviendra la banque centrale, toujours en activité.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "concordat-1801",
@@ -401,7 +431,8 @@
       "type": "Événement",
       "category": "Religion",
       "description": "Accord entre Bonaparte et le pape Pie VII : la paix religieuse revient en France après douze ans de division.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "code-civil-1804",
@@ -411,7 +442,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le « Code Napoléon » fixe pour tous l'égalité civile et le droit de propriété ; il inspire encore de nombreux droits étrangers.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "proclamation-empire-1804",
@@ -421,7 +453,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le Sénat proclame Bonaparte empereur des Français sous le nom de Napoléon Ier.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "sacre-napoleon-1804",
@@ -431,7 +464,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "À Notre-Dame de Paris, Napoléon saisit la couronne et se couronne lui-même devant le pape convoqué.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "trafalgar-1805",
@@ -441,7 +475,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Nelson détruit la flotte franco-espagnole : l'Angleterre règne sur les mers, Napoléon ne traversera jamais la Manche.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "austerlitz-1805",
@@ -451,7 +486,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "La victoire la plus célèbre de Napoléon, contre l'Autriche et la Russie réunies : la France domine l'Europe continentale.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "blocus-continental-1806",
@@ -461,7 +497,8 @@
       "type": "Événement",
       "category": "Économie",
       "description": "Par le décret de Berlin, Napoléon interdit à l'Europe de commercer avec l'Angleterre ; le remède empoisonne aussi l'économie française.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "guerre-espagne-1808-1814",
@@ -471,7 +508,8 @@
       "type": "Période",
       "category": "Guerre",
       "description": "L'occupation de l'Espagne plonge l'Empire dans une guérilla interminable qui l'épuise.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "campagne-russie-1812",
@@ -481,7 +519,8 @@
       "type": "Période",
       "category": "Guerre",
       "description": "Environ 600 000 hommes partent écraser la Russie ; la retraite dans l'hiver et le désastre de la Bérézina détruisent l'armée et le mythe d'invincibilité.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "leipzig-1813",
@@ -491,7 +530,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "La « bataille des Nations » : toute l'Europe réunie bat Napoléon, la France est envahie.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "congres-de-vienne-1815",
@@ -501,7 +541,8 @@
       "type": "Période",
       "category": "Politique",
       "description": "Les puissances européennes redessinent la carte du continent pour effacer l'héritage de Napoléon ; la France vaincue est ramenée à ses frontières de 1790.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "abdication-1814",
@@ -511,7 +552,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Napoléon abdique et reçoit l'île d'Elbe ; Louis XVIII monte sur le trône, la Restauration commence.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "charte-1814",
@@ -521,7 +563,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Louis XVIII rétablit la monarchie mais conserve les acquis de la Révolution : égalité civile, Code civil, propriété.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "terreur-blanche-1815",
@@ -531,7 +574,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Vague de violence royaliste contre les bonapartistes et les révolutionnaires après le retour définitif de Louis XVIII.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "debarquement-golfe-juan-1815",
@@ -541,7 +585,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Napoléon quitte l'île d'Elbe et débarque en France ; en trois semaines, il reprend le pouvoir sans tirer un coup de feu.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "cent-jours-1815",
@@ -551,7 +596,8 @@
       "type": "Période",
       "category": "Politique",
       "description": "Du retour de Napoléon aux Tuileries à sa seconde abdication, après la défaite de Waterloo.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "waterloo-1815",
@@ -561,7 +607,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Défaite définitive contre les Anglais de Wellington et les Prussiens de Blücher.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "seconde-abdication-1815",
@@ -571,7 +618,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Après Waterloo, Napoléon abdique et est exilé par les Anglais à Sainte-Hélène.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "mort-napoleon-1821",
@@ -581,7 +629,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "L'empereur meurt en exil sur l'île de Sainte-Hélène, dans l'Atlantique sud, à 51 ans.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "milliard-des-emigres-1825",
@@ -591,7 +640,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Loi d'indemnisation d'un milliard de francs aux nobles dont les biens avaient été vendus pendant la Révolution.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "sacre-charles-x-1825",
@@ -601,7 +651,8 @@
       "type": "Événement",
       "category": "Religion",
       "description": "Le roi se fait sacrer comme au Moyen Âge ; son règne réactionnaire (loi sur le sacrilège) heurte la France libérale.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "naissance-louise-michel-1830",
@@ -611,7 +662,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Naissance à Vroncourt-la-Côte (Haute-Marne) de Louise Michel, future institutrice, écrivaine et militante anarchiste, figure majeure de la Commune de Paris.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "ordonnances-saint-cloud-1830",
@@ -621,7 +673,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Charles X suspend la liberté de la presse, dissout la chambre et truque les élections : un coup d'État sur le papier qui déclenche la révolution.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "trois-glorieuses-1830",
@@ -631,7 +684,8 @@
       "type": "Période",
       "category": "Politique",
       "description": "Trois jours de barricades à Paris renversent Charles X ; une partie de l'armée refuse de tirer sur la foule.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "abdication-charles-x-1830",
@@ -641,7 +695,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le dernier roi de la branche aînée des Bourbons abdique à Rambouillet et s'exile en Angleterre.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "louis-philippe-roi-1830",
@@ -651,7 +706,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "La Fayette présente le duc d'Orléans à la foule, drapeau tricolore à la main : la monarchie de Juillet commence, « roi bourgeois » et vote réservé aux riches.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "revolte-canuts-1831",
@@ -661,7 +717,8 @@
       "type": "Événement",
       "category": "Économie",
       "description": "Les ouvriers de la soie se soulèvent pour leurs salaires : première grande révolte ouvrière de l'industrialisation.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "cholera-1832",
@@ -671,7 +728,8 @@
       "type": "Événement",
       "category": "Science",
       "description": "L'épidémie tue près de vingt mille Parisiens et attise la colère politique.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "insurrection-lamarque-1832",
@@ -681,7 +739,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Les funérailles du général Lamarque dégénèrent en insurrection ; Victor Hugo en fera le décor des Misérables.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "chemin-de-fer-1837",
@@ -691,7 +750,8 @@
       "type": "Événement",
       "category": "Économie",
       "description": "Inauguration de la ligne Paris – Saint-Germain : l'ère du rail commence, moteur de l'industrialisation française.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "campagne-banquets-1847",
@@ -701,7 +761,8 @@
       "type": "Période",
       "category": "Politique",
       "description": "Privée du droit de réunion, l'opposition dîne et réclame la réforme électorale dans des centaines de banquets à travers la France.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "printemps-des-peuples-1848",
@@ -711,7 +772,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "La révolution française ébranle l'Europe : soulèvements à Vienne, Berlin, Milan et Rome.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "revolution-fevrier-1848",
@@ -721,7 +783,8 @@
       "type": "Période",
       "category": "Politique",
       "description": "Un banquet interdit, une charge de la garde, trois journées d'émeute : Louis-Philippe abdique et s'enfuit, la Deuxième République est proclamée.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "suffrage-universel-1848",
@@ -731,7 +794,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Du jour au lendemain, neuf millions d'hommes deviennent électeurs, contre deux cent mille sous Louis-Philippe.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "elections-constituante-1848",
@@ -741,7 +805,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le suffrage universel envoie à l'assemblée une majorité de notables de province, méfiants envers les idées sociales de Paris.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "abolition-esclavage-1848",
@@ -751,7 +816,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le décret porté par Victor Schœlcher abolit l'esclavage dans toutes les colonies françaises.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "journees-juin-1848",
@@ -761,7 +827,8 @@
       "type": "Période",
       "category": "Politique",
       "description": "La fermeture des ateliers nationaux provoque l'insurrection ouvrière ; la répression du général Cavaignac fait plus d'un millier de morts. La République se divise.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "election-louis-napoleon-1848",
@@ -771,7 +838,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Première élection présidentielle de l'histoire de France : le neveu de Napoléon l'emporte avec près de trois quarts des suffrages.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "coup-etat-1851",
@@ -781,7 +849,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le prince-président dissout l'Assemblée et fait arrêter l'opposition ; la résistance républicaine est réprimée, Victor Hugo s'exile. Un plébiscite entérine le coup d'État.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "discours-bordeaux-1852",
@@ -791,7 +860,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "À Bordeaux, Louis-Napoléon lance la formule de son règne : promesse d'ordre, de prospérité et de paix.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "second-empire-1852",
@@ -801,7 +871,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Un an après le coup d'État, jour pour jour, Louis-Napoléon Bonaparte devient l'empereur Napoléon III.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "haussmann-1853",
@@ -811,7 +882,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le baron Haussmann entreprend les grands travaux : grands boulevards, égouts, parcs, eau courante — le Paris moderne naît.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "guerre-crimee-1854",
@@ -821,7 +893,8 @@
       "type": "Période",
       "category": "Guerre",
       "description": "La France s'allie à l'Angleterre contre la Russie ; la prise de Sébastopol et le traité de Paris rendent à la France son rang de grande puissance.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "exposition-universelle-1855",
@@ -831,7 +904,8 @@
       "type": "Événement",
       "category": "Culture",
       "description": "Le Paris modernisé du Second Empire se montre au monde entier.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "guerre-italie-1859",
@@ -841,7 +915,8 @@
       "type": "Période",
       "category": "Guerre",
       "description": "La France aide le Piémont contre l'Autriche : victoires de Magenta et de Solférino, la France reçoit la Savoie et Nice.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "magenta-1859",
@@ -851,7 +926,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Victoire française en Lombardie sur les Autrichiens.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "solferino-1859",
@@ -861,7 +937,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Victoire décisive ; le spectacle des blessés abandonnés inspire à Henri Dunant la création de la Croix-Rouge.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "libre-echange-1860",
@@ -871,7 +948,8 @@
       "type": "Événement",
       "category": "Économie",
       "description": "Le traité Cobden-Chevalier ouvre le marché français aux manufactures britanniques : tournant libéral du Second Empire.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "rattachement-savoie-nice-1860",
@@ -881,7 +959,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Le traité de Turin donne à la France la Savoie et le comté de Nice en échange de son aide à l'unité italienne.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "loi-greve-1864",
@@ -891,7 +970,8 @@
       "type": "Événement",
       "category": "Économie",
       "description": "La loi Ollier autorise la coalition et la grève : première grande reconnaissance du monde ouvrier depuis 1791.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "plebiscite-1870",
@@ -901,7 +981,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Les Français approuvent massivement l'Empire devenu libéral : le régime semble au sommet de sa force.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 5
     },
     {
       "id": "guerre-prusse-1870",
@@ -911,7 +992,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Trois mois après son triomphe plébiscitaire, Napoléon III entraîne la France dans la guerre qui la perdra : la fin de l'Empire commence.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "sedan-1870",
@@ -921,7 +1003,8 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "L'armée française est écrasée à Sedan ; Napoléon III est fait prisonnier. Le Second Empire s'effondre en quelques jours.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "troisieme-republique-1870",
@@ -931,7 +1014,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "À la nouvelle du désastre de Sedan, les Parisiens proclament la République à l'hôtel de ville. Le siège de la capitale par les Prussiens commence.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 1
     },
     {
       "id": "proclamation-commune-1871",
@@ -941,7 +1025,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Après l'insurrection du 18 mars, la Commune est proclamée à l'Hôtel de Ville : 72 jours de gouvernement révolutionnaire. Louise Michel combat au 61e bataillon de Montmartre, sur les barricades et comme ambulancière.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 2
     },
     {
       "id": "proces-louise-michel-1871",
@@ -951,7 +1036,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Devant le conseil de guerre, Louise Michel brave ses juges et réclame la mort : « Si vous n'êtes pas des lâches, tuez-moi. » Condamnée à la déportation dans une enceinte fortifiée ; Victor Hugo lui dédie le poème « Viro Major ».",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "deportation-louise-michel-1873",
@@ -961,7 +1047,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Embarquée à Saint-Martin-de-Ré, elle rejoint en décembre la presqu'île Ducos. En sept ans d'exil, elle instruit les Kanaks et prend leur défense lors de leur révolte de 1878 ; elle y devient anarchiste.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "amnistie-communards-1880",
@@ -971,7 +1058,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Votée le 11 juillet et promulguée le 12 juillet 1880, la loi d'amnistie permet aux communards condamnés ou exilés de rentrer en France.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 3
     },
     {
       "id": "retour-louise-michel-1880",
@@ -981,7 +1069,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Amnistiée, Louise Michel débarque à Dieppe et rentre à Paris, acclamée par la foule : « Vive Louise Michel ! Vive la Commune ! ». Elle reprend jusqu'à sa mort son combat en faveur des prolétaires.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "manifestation-drapeau-noir-1883",
@@ -991,7 +1080,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Avec Émile Pouget, Louise Michel mène aux Invalides la manifestation des chômeurs en arborant le drapeau noir : « J'arborerai le drapeau noir, portant le deuil de nos morts et de nos illusions. » Le noir devient l'étendard de l'anarchisme.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 4
     },
     {
       "id": "mort-louise-michel-1905",
@@ -1001,7 +1091,8 @@
       "type": "Événement",
       "category": "Politique",
       "description": "Louise Michel meurt à Marseille à 74 ans ; ses funérailles rassemblent à Paris des milliers de personnes. Elle est inhumée au cimetière de Levallois-Perret.",
-      "fromVibe": true
+      "fromVibe": true,
+      "priority": 3
     }
   ]
 }
