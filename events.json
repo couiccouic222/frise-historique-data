@@ -404,6 +404,18 @@
       "country": "Grèce"
     },
     {
+      "id": "antigone-sophocle--441",
+      "name": "Antigone de Sophocle",
+      "start": "-441",
+      "end": null,
+      "type": "Événement",
+      "category": "Culture",
+      "description": "Vers 441 av. J.-C., Sophocle met en scène la fille d'Œdipe qui brave l'interdit du roi Créon pour enterrer son frère : le mythe devient l'un des plus grands textes sur le devoir moral face au pouvoir.",
+      "priority": 3,
+      "fromVibe": true,
+      "country": "Grèce"
+    },
+    {
       "id": "bataille-cheronee--338",
       "name": "Bataille de Chéronée, la Grèce passe sous contrôle macédonien",
       "start": "-338",
@@ -2353,6 +2365,18 @@
       "description": "L'invasion de la Pologne par l'Allemagne nazie déclenche le conflit le plus meurtrier de l'histoire : environ 70 millions de morts, Shoah, bombe atomique.",
       "priority": 1,
       "fromVibe": true
+    },
+    {
+      "id": "antigone-anouilh-1944",
+      "name": "Création d'Antigone de Jean Anouilh à Paris",
+      "start": "1944-02-04",
+      "end": null,
+      "type": "Événement",
+      "category": "Culture",
+      "description": "Au théâtre de l'Atelier sous l'Occupation, Anouilh transpose le mythe grec : la jeune fille qui refuse de céder à Créon résonne comme une réflexion sur la résistance, l'engagement et le destin.",
+      "priority": 3,
+      "fromVibe": true,
+      "country": "France"
     },
     {
       "id": "hiroshima-1945",
