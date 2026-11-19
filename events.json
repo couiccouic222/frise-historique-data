@@ -214,6 +214,36 @@
   ],
   "events": [
     {
+      "id": "habeas-corpus-act-1679",
+      "name": "Habeas Corpus Act",
+      "start": "1679-05-27",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le « Habeas Corpus Parliament » adopte sous Charles II la loi qui oblige tout geôlier à présenter rapidement le détenu devant un juge, celui-ci vérifiant la légalité de la détention : rempart contre l'emprisonnement arbitraire, pilier des libertés publiques anglaises.",
+      "fromVibe": true
+    },
+    {
+      "id": "glorieuse-revolution-1688",
+      "name": "Glorieuse Révolution",
+      "start": "1688",
+      "end": "1689",
+      "type": "Période",
+      "category": "Politique",
+      "description": "Guillaume d'Orange débarque en Angleterre ; Jacques II fuit sans combattre. Le trône est offert à Guillaume III et Marie II, qui doivent accepter les limitations du pouvoir royal : la monarchie anglaise devient parlementaire.",
+      "fromVibe": true
+    },
+    {
+      "id": "bill-of-rights-1689",
+      "name": "Bill of Rights anglais",
+      "start": "1689-12-16",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Après la Glorieuse Révolution, la Déclaration des droits limite le pouvoir royal : interdiction de suspendre les lois ou de lever une armée permanente sans le consentement du Parlement. Acte fondateur de la monarchie constitutionnelle anglaise.",
+      "fromVibe": true
+    },
+    {
       "id": "unification-egypte--3100",
       "name": "Unification de l'Égypte par Narmer",
       "type": "Événement",
