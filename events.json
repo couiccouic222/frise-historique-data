@@ -426,6 +426,42 @@
       "country": "Grèce"
     },
     {
+      "id": "bataille-granique--334",
+      "name": "Bataille du Granique, début de la conquête de l’empire perse",
+      "start": "-334",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Passé l'Hellespont, Alexandre remporte sa première victoire contre les satrapes perses en Asie Mineure (actuelle Turquie) : la conquête de l'empire achéménide commence.",
+      "priority": 3,
+      "fromVibe": true,
+      "country": "Turquie"
+    },
+    {
+      "id": "bataille-issos--333",
+      "name": "Bataille d’Issos",
+      "start": "-333",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Alexandre bat le roi Darius III en personne, qui fuit : la route de la Phénicie et de l'Égypte s'ouvre, la famille du roi perse est capturée.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Turquie"
+    },
+    {
+      "id": "fondation-alexandrie--331",
+      "name": "Fondation d’Alexandrie en Égypte",
+      "start": "-331",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Sur la côte égyptienne, Alexandre fonde la ville qui portera son nom : elle deviendra la capitale des Ptolémées, son phare et sa bibliothèque feront la gloire du monde hellénistique.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Égypte"
+    },
+    {
       "id": "arbeles--331",
       "name": "Bataille d'Arbèles, Alexandre s'empare de l'empire perse",
       "type": "Événement",
@@ -438,6 +474,18 @@
         "Empire perse",
         "Grèce"
       ]
+    },
+    {
+      "id": "bataille-hydaspe--326",
+      "name": "Bataille de l’Hydaspe, victoire en Inde",
+      "start": "-326",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Sur l'Hydaspe (actuel Jhelum, Pakistan), Alexandre bat le roi Porus et ses éléphants de guerre, la victoire la plus à l'est de sa carrière : son armée, épuisée, refuse d'aller plus loin.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Pakistan"
     },
     {
       "id": "mort-alexandre--323",
