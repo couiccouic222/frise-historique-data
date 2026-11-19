@@ -754,6 +754,54 @@
       "country": "Italie"
     },
     {
+      "id": "naissance-jean-martin-charcot-1825",
+      "name": "Naissance de Jean-Martin Charcot",
+      "start": "1825-11-29",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "Naissance à Paris du neurologue Jean-Martin Charcot, fondateur avec Duchenne de la neurologie moderne et célèbre pour ses travaux sur l'hystérie et l'hypnose à la Salpêtrière.",
+      "priority": 2,
+      "country": "France",
+      "fromVibe": true
+    },
+    {
+      "id": "charcot-salpetriere-1862",
+      "name": "Charcot médecin-chef à la Salpêtrière",
+      "start": "1862",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "Jean-Martin Charcot prend son service à la Salpêtrière, où il exercera toute sa carrière : il y bâtit la méthode anatomo-clinique et fait de l'hôpital le berceau mondial de l'étude des maladies du système nerveux.",
+      "priority": 2,
+      "country": "France",
+      "fromVibe": true
+    },
+    {
+      "id": "charcot-chaire-neurologie-1882",
+      "name": "Première chaire de clinique des maladies nerveuses",
+      "start": "1882",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "Une chaire de clinique des maladies du système nerveux est créée à la Salpêtrière pour Charcot : la première au monde, acte de naissance de la neurologie en tant que spécialité. Son « École de la Salpêtrière » attire étudiants et médecins du monde entier, dont Freud en 1885.",
+      "priority": 1,
+      "country": "France",
+      "fromVibe": true
+    },
+    {
+      "id": "mort-jean-martin-charcot-1893",
+      "name": "Mort de Jean-Martin Charcot",
+      "start": "1893-08-16",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "Le « Napoléon des névroses » meurt brutalement à 67 ans au lac des Settons (Nièvre). Il laisse son nom à la sclérose latérale amyotrophique (maladie de Charcot) et une école qui a formé Freud, Babinski ou Gilles de la Tourette.",
+      "priority": 2,
+      "country": "France",
+      "fromVibe": true
+    },
+    {
       "id": "desastre-teutobourg-9",
       "name": "Désastre de Teutobourg : Varus perd trois légions",
       "start": "9",
