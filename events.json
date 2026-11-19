@@ -544,6 +544,18 @@
       "country": "Turquie"
     },
     {
+      "id": "guerre-pyrrhus--280",
+      "name": "Guerre de Pyrrhus en Italie",
+      "start": "-280",
+      "end": "-275",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "Le roi d'Épire Pyrrhus, cousin d'Alexandre, débarque à Tarente avec ses éléphants pour défendre les cités grecques d'Italie contre Rome ; vainqueur à Héraclée et à Asculum au prix de pertes terribles (« victoire pyrrhique »), il est battu à Bénévent en 275 et se retire : l'Italie est à Rome.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Italie"
+    },
+    {
       "id": "premiere-guerre-punique--264",
       "name": "Première guerre punique",
       "start": "-264",
@@ -554,6 +566,18 @@
       "priority": 1,
       "fromVibe": true,
       "country": "Italie"
+    },
+    {
+      "id": "eratosthene-terre--240",
+      "name": "Ératosthène mesure la circonférence de la Terre",
+      "start": "-240",
+      "end": null,
+      "type": "Découverte",
+      "category": "Science",
+      "description": "Directeur de la bibliothèque d'Alexandrie, Ératosthène compare les ombres du solstice à Syène et à Alexandrie et en déduit la circonférence de la Terre avec une précision remarquable pour l'époque.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Égypte"
     },
     {
       "id": "unification-chine-qin--221",
@@ -585,6 +609,18 @@
       "type": "Événement",
       "category": "Guerre",
       "description": "Pire défaite de l'histoire de Rome : Hannibal encercle et anéantit une armée consulaire ; les chiffres antiques de dizaines de milliers de morts restent débattus. Rome refuse pourtant de capituler.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Italie"
+    },
+    {
+      "id": "mort-archimede--212",
+      "name": "Mort d’Archimède au siège de Syracuse",
+      "start": "-212",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Après deux ans de siège, Rome prend Syracuse malgré les machines d'Archimède, dont la grue de fer qui soulevait les navires ; la tradition rapporte que le vieil homme, absorbé dans ses figures de géométrie, fut tué par un soldat.",
       "priority": 2,
       "fromVibe": true,
       "country": "Italie"
@@ -670,6 +706,18 @@
       "priority": 1,
       "fromVibe": true,
       "country": "Grèce"
+    },
+    {
+      "id": "mort-cleopatre--30",
+      "name": "Mort de Cléopâtre, l’Égypte devient romaine",
+      "start": "-30",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Après Actium, la dernière reine lagide met fin à ses jours à Alexandrie, à trente-neuf ans ; l'Égypte, dernier grand royaume des héritiers d'Alexandre, devient province romaine.",
+      "priority": 1,
+      "fromVibe": true,
+      "country": "Égypte"
     },
     {
       "id": "auguste-principat--27",
