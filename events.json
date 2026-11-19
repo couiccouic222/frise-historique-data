@@ -498,6 +498,18 @@
       "country": "Grèce"
     },
     {
+      "id": "guerres-diadoques--323",
+      "name": "Guerres des Diadoques",
+      "start": "-323",
+      "end": "-281",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "À la mort d'Alexandre, ses généraux (Ptolémée, Séleucos, Antigone, Lysimaque, Cassandre) se disputent l'empire pendant quarante ans : il sera partagé en royaumes, jamais réunifié.",
+      "priority": 1,
+      "fromVibe": true,
+      "country": "Monde hellénistique"
+    },
+    {
       "id": "empire-maurya--322",
       "name": "Chandragupta Maurya fonde l'empire maurya",
       "type": "Événement",
@@ -506,6 +518,42 @@
       "priority": 2,
       "fromVibe": true,
       "country": "Inde"
+    },
+    {
+      "id": "bataille-ipsos--301",
+      "name": "Bataille d’Ipsos, « la bataille des rois »",
+      "start": "-301",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Antigone le Borgne, dernier prétendant à l'empire unifié d'Alexandre, est vaincu en Phrygie par une coalition : le rêve d'un seul héritier s'éteint.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Turquie"
+    },
+    {
+      "id": "bataille-couroupedion--281",
+      "name": "Bataille de Couroupédion, fin des guerres des Diadoques",
+      "start": "-281",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Séleucos vainc Lysimaque près de Sardes : trois dynasties se partagent l'héritage d'Alexandre, les Lagides en Égypte, les Séleucides en Asie, les Antigonides en Macédoine.",
+      "priority": 3,
+      "fromVibe": true,
+      "country": "Turquie"
+    },
+    {
+      "id": "premiere-guerre-punique--264",
+      "name": "Première guerre punique",
+      "start": "-264",
+      "end": "-241",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "Rome, venue conquérir la Sicile, affronte la puissance carthaginoise sur mer pendant vingt-trois ans : Rome bâtit sa première flotte et devient une puissance maritime.",
+      "priority": 1,
+      "fromVibe": true,
+      "country": "Italie"
     },
     {
       "id": "unification-chine-qin--221",
@@ -518,6 +566,54 @@
       "country": "Chine"
     },
     {
+      "id": "deuxieme-guerre-punique--218",
+      "name": "Deuxième guerre punique, Hannibal envahit l’Italie",
+      "start": "-218",
+      "end": "-201",
+      "type": "Période",
+      "category": "Guerre",
+      "description": "Parti d'Espagne, Hannibal franchit les Alpes avec ses éléphants et écrase Rome à Cannes, mais ne peut prendre la ville : Rome tient, contre-attaque en Afrique et l'emporte.",
+      "priority": 1,
+      "fromVibe": true,
+      "country": "Italie"
+    },
+    {
+      "id": "bataille-cannes--216",
+      "name": "Bataille de Cannes",
+      "start": "-216",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Pire défaite de l'histoire de Rome : Hannibal encercle et anéantit une armée consulaire ; les chiffres antiques de dizaines de milliers de morts restent débattus. Rome refuse pourtant de capituler.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Italie"
+    },
+    {
+      "id": "bataille-zama--202",
+      "name": "Bataille de Zama",
+      "start": "-202",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Scipion l'Africain vainc Hannibal devant Carthage : la paix de 201 fait de Rome la première puissance de la Méditerranée occidentale.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Tunisie"
+    },
+    {
+      "id": "bataille-pydna--168",
+      "name": "Bataille de Pydna, Rome vainc la Macédoine",
+      "start": "-168",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Paul-Émile écrase le roi Persée : la Macédoine des Antigonides tombe, Rome domine le monde grec et ses royaumes hellénistiques vivent désormais sous son ombre.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Grèce"
+    },
+    {
       "id": "grece-province-romaine--146",
       "name": "La Grèce passe sous domination romaine",
       "start": "-146",
@@ -528,6 +624,30 @@
       "priority": 2,
       "fromVibe": true,
       "country": "Grèce"
+    },
+    {
+      "id": "destruction-carthage--146",
+      "name": "Destruction de Carthage",
+      "start": "-146",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Après trois ans de siège, Scipion Émilien rase Carthage, fin de la troisième guerre punique : la même année que Corinthe, l'Afrique et la Grèce deviennent romaines.",
+      "priority": 1,
+      "fromVibe": true,
+      "country": "Tunisie"
+    },
+    {
+      "id": "pergame-leguee-a-rome--133",
+      "name": "Le royaume de Pergame légué à Rome",
+      "start": "-133",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Attale III lègue son riche royaume d'Asie à Rome ; après l'échec de la révolte d'Aristonicos (129), Rome y crée sa première province asiatique.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Turquie"
     },
     {
       "id": "assassinat-cesar--44",
