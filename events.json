@@ -754,126 +754,6 @@
       "country": "Italie"
     },
     {
-      "id": "naissance-jean-calvin-1509",
-      "name": "Naissance de Jean Calvin",
-      "start": "1509-07-10",
-      "end": null,
-      "type": "Événement",
-      "category": "Religion",
-      "description": "Naissance à Noyon (Picardie) de Jean Cauvin, dit Calvin : juriste et humaniste converti à la Réforme, il deviendra le principal théologien français du protestantisme et le père du calvinisme.",
-      "priority": 2,
-      "country": "France",
-      "fromVibe": true
-    },
-    {
-      "id": "calvin-a-geneve-1536",
-      "name": "Jean Calvin arrive à Genève",
-      "start": "1536-07",
-      "end": null,
-      "type": "Événement",
-      "category": "Religion",
-      "description": "Auteur de l'Institution de la religion chrétienne publiée à Bâle, Calvin est retenu à Genève par Guillaume Farel : commence l'aventure qui transformera une ville moyenne en capitale du protestantisme européen.",
-      "priority": 2,
-      "country": "Suisse",
-      "fromVibe": true
-    },
-    {
-      "id": "retour-calvin-geneve-1541",
-      "name": "Retour définitif de Calvin à Genève",
-      "start": "1541",
-      "end": null,
-      "type": "Événement",
-      "category": "Religion",
-      "description": "Banni en 1538, Calvin est rappelé et s'établit définitivement à Genève. Ses Ordonnances ecclésiastiques organisent l'Église en quatre ministères (pasteurs, docteurs, anciens, diacres) et créent le Consistoire, chargé de la discipline : Genève devient le laboratoire de la Réforme.",
-      "priority": 2,
-      "country": "Suisse",
-      "fromVibe": true
-    },
-    {
-      "id": "execution-michel-servet-1553",
-      "name": "Exécution de Michel Servet",
-      "start": "1553-10-27",
-      "end": null,
-      "type": "Événement",
-      "category": "Religion",
-      "description": "Le médecin et théologien espagnol Michel Servet, antitrinitaire, est brûlé vif à Champel sur un bûcher de ses propres livres : seule exécution pour hérésie de la Genève réformée. L'affaire déclenche dans toute l'Europe la polémique de Sébastien Castellion sur la tolérance.",
-      "priority": 3,
-      "country": "Suisse",
-      "fromVibe": true
-    },
-    {
-      "id": "academie-de-geneve-1559",
-      "name": "Fondation de l'Académie de Genève",
-      "start": "1559",
-      "end": null,
-      "type": "Événement",
-      "category": "Religion",
-      "description": "Calvin fonde l'Académie de Genève, confiée à son successeur Théodore de Bèze : elle forme les pasteurs de toute l'Europe et devient le noyau de l'actuelle université de Genève. La ville, refuge de dizaines de milliers de persécutés, est désormais surnommée la « Rome protestante ».",
-      "priority": 2,
-      "country": "Suisse",
-      "fromVibe": true
-    },
-    {
-      "id": "mort-jean-calvin-1564",
-      "name": "Mort de Jean Calvin",
-      "start": "1564-05-27",
-      "end": null,
-      "type": "Événement",
-      "category": "Religion",
-      "description": "Calvin meurt à Genève à 54 ans ; enterré sans cérémonie dans une tombe anonyme, à sa demande. Le calvinisme se répandra en France, aux Pays-Bas, en Écosse puis en Amérique du Nord.",
-      "priority": 2,
-      "country": "Suisse",
-      "fromVibe": true
-    },
-    {
-      "id": "naissance-jean-martin-charcot-1825",
-      "name": "Naissance de Jean-Martin Charcot",
-      "start": "1825-11-29",
-      "end": null,
-      "type": "Événement",
-      "category": "Science",
-      "description": "Naissance à Paris du neurologue Jean-Martin Charcot, fondateur avec Duchenne de la neurologie moderne et célèbre pour ses travaux sur l'hystérie et l'hypnose à la Salpêtrière.",
-      "priority": 2,
-      "country": "France",
-      "fromVibe": true
-    },
-    {
-      "id": "charcot-salpetriere-1862",
-      "name": "Charcot médecin-chef à la Salpêtrière",
-      "start": "1862",
-      "end": null,
-      "type": "Événement",
-      "category": "Science",
-      "description": "Jean-Martin Charcot prend son service à la Salpêtrière, où il exercera toute sa carrière : il y bâtit la méthode anatomo-clinique et fait de l'hôpital le berceau mondial de l'étude des maladies du système nerveux.",
-      "priority": 2,
-      "country": "France",
-      "fromVibe": true
-    },
-    {
-      "id": "charcot-chaire-neurologie-1882",
-      "name": "Première chaire de clinique des maladies nerveuses",
-      "start": "1882",
-      "end": null,
-      "type": "Événement",
-      "category": "Science",
-      "description": "Une chaire de clinique des maladies du système nerveux est créée à la Salpêtrière pour Charcot : la première au monde, acte de naissance de la neurologie en tant que spécialité. Son « École de la Salpêtrière » attire étudiants et médecins du monde entier, dont Freud en 1885.",
-      "priority": 1,
-      "country": "France",
-      "fromVibe": true
-    },
-    {
-      "id": "mort-jean-martin-charcot-1893",
-      "name": "Mort de Jean-Martin Charcot",
-      "start": "1893-08-16",
-      "end": null,
-      "type": "Événement",
-      "category": "Science",
-      "description": "Le « Napoléon des névroses » meurt brutalement à 67 ans au lac des Settons (Nièvre). Il laisse son nom à la sclérose latérale amyotrophique (maladie de Charcot) et une école qui a formé Freud, Babinski ou Gilles de la Tourette.",
-      "priority": 2,
-      "country": "France",
-      "fromVibe": true
-    },
-    {
       "id": "desastre-teutobourg-9",
       "name": "Désastre de Teutobourg : Varus perd trois légions",
       "start": "9",
@@ -1283,6 +1163,18 @@
       "country": "Espagne"
     },
     {
+      "id": "naissance-jean-calvin-1509",
+      "name": "Naissance de Jean Calvin",
+      "start": "1509-07-10",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Naissance à Noyon (Picardie) de Jean Cauvin, dit Calvin : juriste et humaniste converti à la Réforme, il deviendra le principal théologien français du protestantisme et le père du calvinisme.",
+      "priority": 2,
+      "country": "France",
+      "fromVibe": true
+    },
+    {
       "id": "luther-95-theses-1517",
       "name": "Les 95 thèses de Luther, début de la Réforme",
       "type": "Événement",
@@ -1301,6 +1193,66 @@
       "priority": 3,
       "fromVibe": true,
       "country": "Inde"
+    },
+    {
+      "id": "calvin-a-geneve-1536",
+      "name": "Jean Calvin arrive à Genève",
+      "start": "1536-07",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Auteur de l'Institution de la religion chrétienne publiée à Bâle, Calvin est retenu à Genève par Guillaume Farel : commence l'aventure qui transformera une ville moyenne en capitale du protestantisme européen.",
+      "priority": 2,
+      "country": "Suisse",
+      "fromVibe": true
+    },
+    {
+      "id": "retour-calvin-geneve-1541",
+      "name": "Retour définitif de Calvin à Genève",
+      "start": "1541",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Banni en 1538, Calvin est rappelé et s'établit définitivement à Genève. Ses Ordonnances ecclésiastiques organisent l'Église en quatre ministères (pasteurs, docteurs, anciens, diacres) et créent le Consistoire, chargé de la discipline : Genève devient le laboratoire de la Réforme.",
+      "priority": 2,
+      "country": "Suisse",
+      "fromVibe": true
+    },
+    {
+      "id": "execution-michel-servet-1553",
+      "name": "Exécution de Michel Servet",
+      "start": "1553-10-27",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Le médecin et théologien espagnol Michel Servet, antitrinitaire, est brûlé vif à Champel sur un bûcher de ses propres livres : seule exécution pour hérésie de la Genève réformée. L'affaire déclenche dans toute l'Europe la polémique de Sébastien Castellion sur la tolérance.",
+      "priority": 3,
+      "country": "Suisse",
+      "fromVibe": true
+    },
+    {
+      "id": "academie-de-geneve-1559",
+      "name": "Fondation de l'Académie de Genève",
+      "start": "1559",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Calvin fonde l'Académie de Genève, confiée à son successeur Théodore de Bèze : elle forme les pasteurs de toute l'Europe et devient le noyau de l'actuelle université de Genève. La ville, refuge de dizaines de milliers de persécutés, est désormais surnommée la « Rome protestante ».",
+      "priority": 2,
+      "country": "Suisse",
+      "fromVibe": true
+    },
+    {
+      "id": "mort-jean-calvin-1564",
+      "name": "Mort de Jean Calvin",
+      "start": "1564-05-27",
+      "end": null,
+      "type": "Événement",
+      "category": "Religion",
+      "description": "Calvin meurt à Genève à 54 ans ; enterré sans cérémonie dans une tombe anonyme, à sa demande. Le calvinisme se répandra en France, aux Pays-Bas, en Écosse puis en Amérique du Nord.",
+      "priority": 2,
+      "country": "Suisse",
+      "fromVibe": true
     },
     {
       "id": "shogunat-tokugawa-1603",
@@ -1991,6 +1943,18 @@
       "country": "France"
     },
     {
+      "id": "naissance-jean-martin-charcot-1825",
+      "name": "Naissance de Jean-Martin Charcot",
+      "start": "1825-11-29",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "Naissance à Paris du neurologue Jean-Martin Charcot, fondateur avec Duchenne de la neurologie moderne et célèbre pour ses travaux sur l'hystérie et l'hypnose à la Salpêtrière.",
+      "priority": 2,
+      "country": "France",
+      "fromVibe": true
+    },
+    {
       "id": "naissance-louise-michel-1830",
       "name": "Naissance de Louise Michel",
       "start": "1830-05-29",
@@ -2333,6 +2297,18 @@
       "country": "France"
     },
     {
+      "id": "charcot-salpetriere-1862",
+      "name": "Charcot médecin-chef à la Salpêtrière",
+      "start": "1862",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "Jean-Martin Charcot prend son service à la Salpêtrière, où il exercera toute sa carrière : il y bâtit la méthode anatomo-clinique et fait de l'hôpital le berceau mondial de l'étude des maladies du système nerveux.",
+      "priority": 2,
+      "country": "France",
+      "fromVibe": true
+    },
+    {
       "id": "loi-greve-1864",
       "name": "Autorisation du droit de grève",
       "start": "1864-05-25",
@@ -2461,6 +2437,18 @@
       "country": "France"
     },
     {
+      "id": "charcot-chaire-neurologie-1882",
+      "name": "Première chaire de clinique des maladies nerveuses",
+      "start": "1882",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "Une chaire de clinique des maladies du système nerveux est créée à la Salpêtrière pour Charcot : la première au monde, acte de naissance de la neurologie en tant que spécialité. Son « École de la Salpêtrière » attire étudiants et médecins du monde entier, dont Freud en 1885.",
+      "priority": 1,
+      "country": "France",
+      "fromVibe": true
+    },
+    {
       "id": "manifestation-drapeau-noir-1883",
       "name": "Manifestation des sans-travail et drapeau noir",
       "start": "1883-03-09",
@@ -2471,6 +2459,18 @@
       "fromVibe": true,
       "priority": 4,
       "country": "France"
+    },
+    {
+      "id": "mort-jean-martin-charcot-1893",
+      "name": "Mort de Jean-Martin Charcot",
+      "start": "1893-08-16",
+      "end": null,
+      "type": "Événement",
+      "category": "Science",
+      "description": "Le « Napoléon des névroses » meurt brutalement à 67 ans au lac des Settons (Nièvre). Il laisse son nom à la sclérose latérale amyotrophique (maladie de Charcot) et une école qui a formé Freud, Babinski ou Gilles de la Tourette.",
+      "priority": 2,
+      "country": "France",
+      "fromVibe": true
     },
     {
       "id": "mort-louise-michel-1905",
