@@ -16,6 +16,12 @@
       "type": "Période",
       "zones": [
         "Grèce"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
       "type": "Période",
       "zones": [
         "Grèce"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
       ]
     },
     {
@@ -38,6 +50,20 @@
         "Grèce",
         "Moyen-Orient",
         "Égypte"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        },
+        {
+          "continent": "Moyen-Orient",
+          "culture": null
+        },
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
       ]
     },
     {
@@ -72,6 +98,12 @@
       "type": "Période",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -82,6 +114,12 @@
       "type": "Période",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -92,6 +130,12 @@
       "type": "Période",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -102,6 +146,12 @@
       "type": "Période",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -112,6 +162,12 @@
       "type": "Période",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -122,6 +178,12 @@
       "type": "Période",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -132,6 +194,12 @@
       "type": "Période",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -142,6 +210,12 @@
       "type": "Période",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -153,6 +227,12 @@
       "parent": "Commune de Paris",
       "zones": [
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -165,6 +245,20 @@
         "Europe",
         "Afrique",
         "Moyen-Orient"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": null
+        },
+        {
+          "continent": "Afrique",
+          "culture": null
+        },
+        {
+          "continent": "Moyen-Orient",
+          "culture": null
+        }
       ]
     },
     {
@@ -184,6 +278,16 @@
       "zones": [
         "Europe",
         "Moyen-Orient"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": null
+        },
+        {
+          "continent": "Moyen-Orient",
+          "culture": null
+        }
       ]
     },
     {
@@ -194,6 +298,20 @@
         "Moyen-Orient",
         "Afrique",
         "Europe"
+      ],
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": null
+        },
+        {
+          "continent": "Afrique",
+          "culture": null
+        },
+        {
+          "continent": "Europe",
+          "culture": null
+        }
       ]
     },
     {
@@ -203,6 +321,16 @@
       "zones": [
         "Europe",
         "Amériques"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": null
+        },
+        {
+          "continent": "Amériques",
+          "culture": null
+        }
       ]
     },
     {
@@ -221,7 +349,13 @@
       "description": "Le roi de Haute-Égypte Narmer ( Ménès) unifie la Haute et la Basse-Égypte, fondant la Ire dynastie et l'État pharaonique qui durera trois millénaires.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Égypte"
+      "country": "Égypte",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "pyramide-kheops--2560",
@@ -231,7 +365,13 @@
       "description": "Édifiée à Gizeh pendant le règne de Khéops (IVe dynastie), la grande pyramide reste la plus haute construction humaine pendant 3 800 ans.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Égypte"
+      "country": "Égypte",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "code-hammurabi--1792",
@@ -241,7 +381,13 @@
       "description": "Roi de Babylone, Hammurabi fait graver sur une stèle de diorite un code de 282 lois, dont la célèbre « loi du talion » : « œil pour œil, dent pour dent ».",
       "priority": 1,
       "fromVibe": true,
-      "country": "Mésopotamie"
+      "country": "Mésopotamie",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "toutankhamon--1323",
@@ -251,7 +397,13 @@
       "description": "Le « pharaon-enfant » monte sur le trône à 9 ans et restaure le culte d'Amon. Sa tombe, découverte intacte en 1922 par Carter, fait sa légende mondiale.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Égypte"
+      "country": "Égypte",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "ramses-ii--1279",
@@ -261,7 +413,13 @@
       "description": "Règne de 66 ans, le plus long de l'Égypte ancienne : batailles de Qadesh, temples d'Abou Simbel, paix avec les Hittites.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Égypte"
+      "country": "Égypte",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "jeux-olympiques--776",
@@ -271,7 +429,13 @@
       "description": "Institutionnellement fondés en l'honneur de Zeus, les Jeux d'Olympie rassemblent les cités grecques tous les quatre ans pendant près de 12 siècles.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "solon-athenes--594",
@@ -283,7 +447,13 @@
       "description": "Archonte d'Athènes, Solon abolit l'esclavage pour dettes et répartit les citoyens en classes de richesse : première étape vers la démocratie que Clisthène achèvera en 508.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "thales-milet--585",
@@ -295,7 +465,13 @@
       "description": "À Milet (Ionie, Turquie actuelle), Thalès cherche à expliquer le monde par des causes naturelles : la tradition rapportée par Hérodote lui prête la prédiction d'une éclipse de soleil vers 585 av. J.-C.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Turquie"
+      "country": "Turquie",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "fondation-rome--753",
@@ -305,7 +481,13 @@
       "description": "Selon la légende, Romulus fonde Rome sur le Palatin après avoir tué son frère Remus ; la ville deviendra la capitale d'un empire mondial.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "naissance-bouddha--563",
@@ -315,7 +497,13 @@
       "description": "Prince de Kapilavastu, Siddhartha Gautama devient le Bouddha « l'Éveillé » après son illumination sous l'arbre de la Bodhi ; sa doctrine fonde le bouddhisme.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Inde"
+      "country": "Inde",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-sud"
+        }
+      ]
     },
     {
       "id": "cyrus-babylone--539",
@@ -325,7 +513,13 @@
       "description": "Fondateur de l'empire perse achéménide, Cyrus entre dans Babylone sans combat ; son cylindre, première charte des droits humains, proclame la liberté des cultes.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Empire perse"
+      "country": "Empire perse",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "pythagore-crotone--530",
@@ -337,7 +531,13 @@
       "description": "Né à Samos, Pythagore fonde à Crotone (Italie du Sud, « Grande-Grèce ») une école qui voit dans les nombres l'ordre du monde ; le célèbre théorème portera son nom.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "republique-romaine--509",
@@ -347,7 +547,13 @@
       "description": "Après l'expulsion du dernier roi Tarquin le Superbe, Rome instaure la République : deux consuls élus, un Sénat, des assemblées citoyennes.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "clisthene--508",
@@ -357,7 +563,13 @@
       "description": "Clisthène réorganise Athènes en dix tribus et crée l'Ecclésia et la Boulè : le démos exerce désormais le pouvoir, fondant la démocratie.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "bataille-marathon--490",
@@ -369,7 +581,13 @@
       "description": "Les hoplites athéniens de Miltiade écrasent les Perses débarqués à Marathon : premier grand succès grec, dix ans avant Salamine, de la Grèce classique.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "salamine--480",
@@ -379,7 +597,13 @@
       "description": "La flotte grecque anéantit la marine perse de Xerxès dans le détroit de Salamine, sauvant l'indépendance des cités grecques.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "parthenon--447",
@@ -389,7 +613,13 @@
       "description": "Périclès lance l'édification du temple d'Athéna Parthénos sur l'Acropole, chef-d'œuvre de l'architecture dorique.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "guerre-peloponnesien--431",
@@ -401,7 +631,13 @@
       "description": "Sparte et ses alliés contre l'empire athénien : vingt-sept ans de guerre qui épuisent les cités grecques et affaiblissent la Grèce pour des siècles.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "antigone-sophocle--441",
@@ -413,7 +649,13 @@
       "description": "Vers 441 av. J.-C., Sophocle met en scène la fille d'Œdipe qui brave l'interdit du roi Créon pour enterrer son frère : le mythe devient l'un des plus grands textes sur le devoir moral face au pouvoir.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "bataille-cheronee--338",
@@ -425,7 +667,13 @@
       "description": "Philippe II de Macédoine écrase Athènes et Thèbes : les cités grecques indépendantes perdent leur liberté, son fils Alexandre va conquérir l'empire perse.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "alexandre-roi--336",
@@ -435,7 +683,13 @@
       "description": "À 20 ans, Alexandre succède à son père Philippe II de Macédoine, déjà vainqueur de la Grèce à Chéronée.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "bataille-granique--334",
@@ -447,7 +701,13 @@
       "description": "Passé l'Hellespont, Alexandre remporte sa première victoire contre les satrapes perses en Asie Mineure (actuelle Turquie) : la conquête de l'empire achéménide commence.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Turquie"
+      "country": "Turquie",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "bataille-issos--333",
@@ -459,7 +719,13 @@
       "description": "Alexandre bat le roi Darius III en personne, qui fuit : la route de la Phénicie et de l'Égypte s'ouvre, la famille du roi perse est capturée.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Turquie"
+      "country": "Turquie",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "fondation-alexandrie--331",
@@ -471,7 +737,13 @@
       "description": "Sur la côte égyptienne, Alexandre fonde la ville qui portera son nom : elle deviendra la capitale des Ptolémées, son phare et sa bibliothèque feront la gloire du monde hellénistique.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Égypte"
+      "country": "Égypte",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "arbeles--331",
@@ -485,6 +757,16 @@
       "countries": [
         "Empire perse",
         "Grèce"
+      ],
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        },
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
       ]
     },
     {
@@ -497,7 +779,13 @@
       "description": "Sur l'Hydaspe (actuel Jhelum, Pakistan), Alexandre bat le roi Porus et ses éléphants de guerre, la victoire la plus à l'est de sa carrière : son armée, épuisée, refuse d'aller plus loin.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Pakistan"
+      "country": "Pakistan",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-sud"
+        }
+      ]
     },
     {
       "id": "mort-alexandre--323",
@@ -507,7 +795,13 @@
       "description": "Alexandre meurt à 32 ans après avoir conquis l'empire perse ; son empire est aussitôt partagé entre ses généraux (les Diadoques).",
       "priority": 1,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "guerres-diadoques--323",
@@ -525,6 +819,24 @@
         "Égypte",
         "Mésopotamie",
         "Turquie"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        },
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        },
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        },
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
       ]
     },
     {
@@ -535,7 +847,13 @@
       "description": "Ayant chassé les Grecs d'Alexandre, Chandragupta unifie presque tout le sous-continent indien ; son petit-fils Ashoka le convertira au bouddhisme.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Inde"
+      "country": "Inde",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-sud"
+        }
+      ]
     },
     {
       "id": "bataille-ipsos--301",
@@ -547,7 +865,13 @@
       "description": "Antigone le Borgne, dernier prétendant à l'empire unifié d'Alexandre, est vaincu en Phrygie par une coalition : le rêve d'un seul héritier s'éteint.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Turquie"
+      "country": "Turquie",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "bataille-couroupedion--281",
@@ -559,7 +883,13 @@
       "description": "Séleucos vainc Lysimaque près de Sardes : trois dynasties se partagent l'héritage d'Alexandre, les Lagides en Égypte, les Séleucides en Asie, les Antigonides en Macédoine.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Turquie"
+      "country": "Turquie",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "guerre-pyrrhus--280",
@@ -571,7 +901,13 @@
       "description": "Le roi d'Épire Pyrrhus, cousin d'Alexandre, débarque à Tarente avec ses éléphants pour défendre les cités grecques d'Italie contre Rome ; vainqueur à Héraclée et à Asculum au prix de pertes terribles (« victoire pyrrhique »), il est battu à Bénévent en 275 et se retire : l'Italie est à Rome.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "premiere-guerre-punique--264",
@@ -583,7 +919,13 @@
       "description": "Rome, venue conquérir la Sicile, affronte la puissance carthaginoise sur mer pendant vingt-trois ans : Rome bâtit sa première flotte et devient une puissance maritime.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "eratosthene-terre--240",
@@ -595,7 +937,13 @@
       "description": "Directeur de la bibliothèque d'Alexandrie, Ératosthène compare les ombres du solstice à Syène et à Alexandrie et en déduit la circonférence de la Terre avec une précision remarquable pour l'époque.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Égypte"
+      "country": "Égypte",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "unification-chine-qin--221",
@@ -605,7 +953,13 @@
       "description": "Le premier empereur unifie la Chine, standardise écriture, poids et mesures, et lance la Grande Muraille ; sa dynastie donne son nom au pays (Chine).",
       "priority": 1,
       "fromVibe": true,
-      "country": "Chine"
+      "country": "Chine",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-est"
+        }
+      ]
     },
     {
       "id": "deuxieme-guerre-punique--218",
@@ -617,7 +971,13 @@
       "description": "Parti d'Espagne, Hannibal franchit les Alpes avec ses éléphants et écrase Rome à Cannes, mais ne peut prendre la ville : Rome tient, contre-attaque en Afrique et l'emporte.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "bataille-cannes--216",
@@ -629,7 +989,13 @@
       "description": "Pire défaite de l'histoire de Rome : Hannibal encercle et anéantit une armée consulaire ; les chiffres antiques de dizaines de milliers de morts restent débattus. Rome refuse pourtant de capituler.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "mort-archimede--212",
@@ -641,7 +1007,13 @@
       "description": "Après deux ans de siège, Rome prend Syracuse malgré les machines d'Archimède, dont la grue de fer qui soulevait les navires ; la tradition rapporte que le vieil homme, absorbé dans ses figures de géométrie, fut tué par un soldat.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "bataille-zama--202",
@@ -653,7 +1025,13 @@
       "description": "Scipion l'Africain vainc Hannibal devant Carthage : la paix de 201 fait de Rome la première puissance de la Méditerranée occidentale.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Tunisie"
+      "country": "Tunisie",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "bataille-pydna--168",
@@ -665,7 +1043,13 @@
       "description": "Paul-Émile écrase le roi Persée : la Macédoine des Antigonides tombe, Rome domine le monde grec et ses royaumes hellénistiques vivent désormais sous son ombre.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "grece-province-romaine--146",
@@ -677,7 +1061,13 @@
       "description": "Le consul Mummius vainc la Ligue achéenne et détruit Corinthe : la Grèce devient romaine, mais Rome se laissera à son tour conquérir par la culture grecque.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "destruction-carthage--146",
@@ -689,7 +1079,13 @@
       "description": "Après trois ans de siège, Scipion Émilien rase Carthage, fin de la troisième guerre punique : la même année que Corinthe, l'Afrique et la Grèce deviennent romaines.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Tunisie"
+      "country": "Tunisie",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "pergame-leguee-a-rome--133",
@@ -701,7 +1097,13 @@
       "description": "Attale III lègue son riche royaume d'Asie à Rome ; après l'échec de la révolte d'Aristonicos (129), Rome y crée sa première province asiatique.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Turquie"
+      "country": "Turquie",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "assassinat-cesar--44",
@@ -711,7 +1113,13 @@
       "description": "Poignardé au Sénat par une vingtaine de conjurés menés par Brutus et Cassius, César meurt aux ides de mars, plongeant Rome dans la guerre civile.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "bataille-actium--31",
@@ -723,7 +1131,13 @@
       "description": "Au large de la Grèce, la flotte d'Octave vainc Marc Antoine et Cléopâtre : Octave reste seul maître du monde romain, ouvrant la voie à l'Empire.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "mort-cleopatre--30",
@@ -735,7 +1149,13 @@
       "description": "Après Actium, la dernière reine lagide met fin à ses jours à Alexandrie, à trente-neuf ans ; l'Égypte, dernier grand royaume des héritiers d'Alexandre, devient province romaine.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Égypte"
+      "country": "Égypte",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "auguste-principat--27",
@@ -745,7 +1165,13 @@
       "description": "Octave reçoit du Sénat le titre d'Auguste et concentre les pouvoirs : Rome cesse d'être une République et devient un empire qui durera cinq siècles en Occident.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "mort-auguste-14",
@@ -757,7 +1183,13 @@
       "description": "Après 41 ans de règne, Auguste meurt à Nola ; son successeur Tibère perpétue le principat, preuve que le régime impérial survit à son fondateur.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "desastre-teutobourg-9",
@@ -769,7 +1201,13 @@
       "description": "Dans les forêts de Germanie, le chef germain Arminius anéantit trois légions de Varus, qui se suicide ; Auguste renonce à conquérir la Germanie, le Rhin devient frontière de l'Empire.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Allemagne"
+      "country": "Allemagne",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-centrale"
+        }
+      ]
     },
     {
       "id": "conquete-bretagne-43",
@@ -781,7 +1219,13 @@
       "description": "L'empereur Claude lance l'invasion de la Bretagne : la province de Britannia (actuelle Grande-Bretagne) intègre l'Empire jusqu'au début du Ve siècle.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Angleterre"
+      "country": "Angleterre",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        }
+      ]
     },
     {
       "id": "grand-incendie-rome-64",
@@ -793,7 +1237,13 @@
       "description": "Un incendie détruit une grande partie de Rome ; la rumeur accuse Néron, qui rejette la responsabilité sur les chrétiens : première persécution attestée.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "mort-neron-68",
@@ -805,7 +1255,13 @@
       "description": "Déclaré ennemi public par le Sénat, Néron se suicide aidé de son secrétaire : après Claude, Caligula et les autres, la dynastie d'Auguste s'éteint dans le chaos.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "annee-quatre-empereurs-69",
@@ -817,7 +1273,13 @@
       "description": "En une seule année, Galba, Othon, Vitellius puis Vespasien se disputent le trône : les armées, et non plus le Sénat, choisissent désormais les empereurs.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "chute-jerusalem-70",
@@ -829,7 +1291,13 @@
       "description": "Le fils de Vespasien, Titus, écrase la révolte de Judée et détruit le Temple de Jérusalem : début d'une longue diaspora juive ; l'arche de Titus à Rome en gardera le souvenir.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Israël"
+      "country": "Israël",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "vesuve-79",
@@ -839,7 +1307,13 @@
       "description": "L'éruption du Vésuve ensevelit Pompéi et Herculanum sous plusieurs mètres de cendres, les préservant jusqu'à leur redécouverte au XVIIIe siècle.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "inauguration-colisee-80",
@@ -851,7 +1325,13 @@
       "description": "L'amphithéâtre Flavien, le plus grand jamais construit, est inauguré par Titus : les jeux du cirque deviennent un ciment social de l'Empire.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "papier-cai-lun-105",
@@ -861,7 +1341,13 @@
       "description": "Eunuque à la cour des Han, Cai Lun perfectionne la fabrication du papier à partir d'écorce et de chiffons : révolution de l'écriture et de la diffusion du savoir.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Chine"
+      "country": "Chine",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-est"
+        }
+      ]
     },
     {
       "id": "apogee-empire-trajan-117",
@@ -873,7 +1359,13 @@
       "description": "À la mort de Trajan, l'Empire atteint son extension maximale, environ 5 millions de km² : de la Bretagne à l'Égypte, de l'Atlantique à la Mésopotamie.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "mur-hadrien-122",
@@ -885,7 +1377,13 @@
       "description": "En Bretagne, Hadrien fait édifier un mur de 117 km marquant la limite nord de l'Empire : symbole de la stratégie de défense des frontières (limes).",
       "priority": 3,
       "fromVibe": true,
-      "country": "Angleterre"
+      "country": "Angleterre",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        }
+      ]
     },
     {
       "id": "mort-marc-aurele-180",
@@ -897,7 +1395,13 @@
       "description": "L'empereur-philosophe meurt en campagne sur le Danube, selon la tradition à Vindobona (Vienne) : dernier des « cinq bons empereurs », il laisse le trône à son fils Commode, fin d'une ère de paix.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Autriche"
+      "country": "Autriche",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-centrale"
+        }
+      ]
     },
     {
       "id": "edit-caracalla-212",
@@ -909,7 +1413,13 @@
       "description": "Caracalla accorde la citoyenneté romaine à tous les habitants libres de l'Empire : l'unité juridique du monde romain est achevée.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "crise-troisieme-siecle-235",
@@ -921,7 +1431,13 @@
       "description": "De 235 à 284, invasions germaniques et perses, peste, inflation et une trentaine d'empereurs éphémères faillirent briser l'Empire.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "tetrarchie-diocletien-293",
@@ -933,7 +1449,13 @@
       "description": "Dioclétien partage le pouvoir entre deux Augustes et deux Césars pour mieux défendre l'Empire et met fin à la crise du IIIe siècle.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "bataille-pont-milvius-312",
@@ -945,7 +1467,13 @@
       "description": "Constantin vainc Maxence près de Rome ; il attribue sa victoire au dieu des chrétiens et s'ouvre au christianisme, qu'il légalise en 313.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "edit-de-milan-313",
@@ -955,7 +1483,13 @@
       "description": "Constantin et Licinius accordent la liberté de culte aux chrétiens dans l'Empire romain, mettant fin aux persécutions.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "fondation-constantinople-330",
@@ -967,7 +1501,13 @@
       "description": "Sur le site de Byzance, Constantin inaugure une « Nouvelle Rome » : la capitale orientale deviendra le cœur du monde romain survivant.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Turquie"
+      "country": "Turquie",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "edit-thessalonique-380",
@@ -979,7 +1519,13 @@
       "description": "Théodose fait du christianisme nicéen la religion officielle de l'Empire : de persécutée, la foi chrétienne devient religion d'État.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Grèce"
+      "country": "Grèce",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "division-empire-romain-395",
@@ -991,7 +1537,13 @@
       "description": "À la mort de Théodose, l'Empire est définitivement partagé entre Occident (Rome/Ravenne) et Orient (Constantinople) : les deux destins se séparent.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "sac-rome-alari-410",
@@ -1003,7 +1555,13 @@
       "description": "Alaric et ses Wisigoths pillent Rome pendant trois jours : la « Ville éternelle » tombe pour la première fois en huit siècles, choc immense dans le monde romain.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "sac-rome-vandales-455",
@@ -1015,7 +1573,13 @@
       "description": "Le Vandale Genséric occupe Rome pendant quatorze jours et emporte ses richesses : l'Occident agonisant s'enfonce dans le chaos.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Italie"
+      "country": "Italie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "chute-rome-476",
@@ -1025,7 +1589,13 @@
       "description": "Le chef barbare Odoacre dépose le jeune Romulus Augustule, dernier empereur d'Occident : date symbolique de la fin de l'Antiquité.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Rome"
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
     },
     {
       "id": "hegire-622",
@@ -1035,7 +1605,13 @@
       "description": "Fuyant La Mecque pour Médine (Yathrib), Mahomet fonde la première communauté musulmane (oumma) ; l'année 622 devient l'an 1 de l'hégire.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Monde musulman"
+      "country": "Monde musulman",
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
+      ]
     },
     {
       "id": "conquete-hispanie-711",
@@ -1049,6 +1625,16 @@
       "countries": [
         "Monde musulman",
         "Espagne"
+      ],
+      "levels": [
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        },
+        {
+          "continent": "Europe",
+          "culture": "peninsule-iberique"
+        }
       ]
     },
     {
@@ -1059,7 +1645,13 @@
       "description": "Couronné à Rome par le pape Léon III, Charlemagne restaure un empire chrétien en Occident et favorise la « renaissance carolingienne ».",
       "priority": 1,
       "fromVibe": true,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "hastings-1066",
@@ -1073,6 +1665,16 @@
       "countries": [
         "Angleterre",
         "France"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        },
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
       ]
     },
     {
@@ -1083,7 +1685,13 @@
       "description": "Temüjin est proclamé « Khan universel » à la kurultaï ; il forge le plus vaste empire continental de l'histoire, de la Chine à la Pologne.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Empire mongol"
+      "country": "Empire mongol",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-est"
+        }
+      ]
     },
     {
       "id": "magna-carta-1215",
@@ -1093,7 +1701,13 @@
       "description": "Arraché au roi Jean sans Terre, ce texte de 63 articles proclame que nul, pas même le roi, n'est au-dessus de la loi — acte fondateur du constitutionnalisme.",
       "priority": 2,
       "fromVibe": true,
-      "country": "Angleterre"
+      "country": "Angleterre",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        }
+      ]
     },
     {
       "id": "chute-bagdad-1258",
@@ -1103,7 +1717,13 @@
       "description": "Hülegü met fin au califat abbasside : Bagdad, capitale intellectuelle du monde musulman, est rasée et le calife exécuté.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Empire mongol"
+      "country": "Empire mongol",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-est"
+        }
+      ]
     },
     {
       "id": "mansa-moussa-1324",
@@ -1113,7 +1733,13 @@
       "description": "Le roi du Mali traverse l'Afrique avec une caravane de 60 000 hommes et distribue tant d'or au Caire que le cours du métal s'effondre en Égypte.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Mali"
+      "country": "Mali",
+      "levels": [
+        {
+          "continent": "Afrique",
+          "culture": "afrique"
+        }
+      ]
     },
     {
       "id": "tenochtitlan-1325",
@@ -1123,7 +1749,13 @@
       "description": "Selon la légende, les Mexicas fondent leur capitale sur une île du lac Texcoco, au lieu même où un aigle posé sur un cactus tenait un serpent dans son bec.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Empire aztèque"
+      "country": "Empire aztèque",
+      "levels": [
+        {
+          "continent": "Amériques",
+          "culture": "ameriques"
+        }
+      ]
     },
     {
       "id": "peste-noire-1347",
@@ -1142,7 +1774,13 @@
       "description": "Pachacuti transforme le royaume de Cuzco en un empire s'étendant sur 4 000 km le long des Andes, relié par un réseau de 30 000 km de routes.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Empire inca"
+      "country": "Empire inca",
+      "levels": [
+        {
+          "continent": "Amériques",
+          "culture": "ameriques"
+        }
+      ]
     },
     {
       "id": "chute-constantinople-1453",
@@ -1156,6 +1794,16 @@
       "countries": [
         "Empire byzantin",
         "Turquie"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "proche-orient"
+        },
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
       ]
     },
     {
@@ -1166,7 +1814,13 @@
       "description": "En cherchant une route ouest vers les Indes, Colomb touche une île des Bahamas : début de la conquête et de la colonisation européenne des Amériques.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Espagne"
+      "country": "Espagne",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "peninsule-iberique"
+        }
+      ]
     },
     {
       "id": "naissance-jean-calvin-1509",
@@ -1178,7 +1832,13 @@
       "description": "Naissance à Noyon (Picardie) de Jean Cauvin, dit Calvin : juriste et humaniste converti à la Réforme, il deviendra le principal théologien français du protestantisme et le père du calvinisme.",
       "priority": 2,
       "country": "France",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "luther-95-theses-1517",
@@ -1188,7 +1848,13 @@
       "description": "Affichées à Wittenberg, les thèses de Luther dénoncent la vente des indulgences et provoquent la rupture religieuse de l'Europe occidentale.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Allemagne"
+      "country": "Allemagne",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-centrale"
+        }
+      ]
     },
     {
       "id": "empire-moghol-1526",
@@ -1198,7 +1864,13 @@
       "description": "À la bataille de Panipat, Babur écrase l'armée du sultan de Delhi avec ses canons et ses archers montés : début de deux siècles de domination moghole.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Inde"
+      "country": "Inde",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-sud"
+        }
+      ]
     },
     {
       "id": "calvin-a-geneve-1536",
@@ -1210,7 +1882,13 @@
       "description": "Auteur de l'Institution de la religion chrétienne publiée à Bâle, Calvin est retenu à Genève par Guillaume Farel : commence l'aventure qui transformera une ville moyenne en capitale du protestantisme européen.",
       "priority": 2,
       "country": "Suisse",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "retour-calvin-geneve-1541",
@@ -1222,7 +1900,13 @@
       "description": "Banni en 1538, Calvin est rappelé et s'établit définitivement à Genève. Ses Ordonnances ecclésiastiques organisent l'Église en quatre ministères (pasteurs, docteurs, anciens, diacres) et créent le Consistoire, chargé de la discipline : Genève devient le laboratoire de la Réforme.",
       "priority": 2,
       "country": "Suisse",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "execution-michel-servet-1553",
@@ -1234,7 +1918,13 @@
       "description": "Le médecin et théologien espagnol Michel Servet, antitrinitaire, est brûlé vif à Champel sur un bûcher de ses propres livres : seule exécution pour hérésie de la Genève réformée. L'affaire déclenche dans toute l'Europe la polémique de Sébastien Castellion sur la tolérance.",
       "priority": 3,
       "country": "Suisse",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "academie-de-geneve-1559",
@@ -1246,7 +1936,13 @@
       "description": "Calvin fonde l'Académie de Genève, confiée à son successeur Théodore de Bèze : elle forme les pasteurs de toute l'Europe et devient le noyau de l'actuelle université de Genève. La ville, refuge de dizaines de milliers de persécutés, est désormais surnommée la « Rome protestante ».",
       "priority": 2,
       "country": "Suisse",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "mort-jean-calvin-1564",
@@ -1258,7 +1954,13 @@
       "description": "Calvin meurt à Genève à 54 ans ; enterré sans cérémonie dans une tombe anonyme, à sa demande. Le calvinisme se répandra en France, aux Pays-Bas, en Écosse puis en Amérique du Nord.",
       "priority": 2,
       "country": "Suisse",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "shogunat-tokugawa-1603",
@@ -1268,7 +1970,13 @@
       "description": "Tokugawa Ieyasu reçoit le titre de shogun et fonde un gouvernement militaire qui isolera le Japon du monde pendant 250 ans (sakoku).",
       "priority": 3,
       "fromVibe": true,
-      "country": "Japon"
+      "country": "Japon",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-est"
+        }
+      ]
     },
     {
       "id": "habeas-corpus-act-1679",
@@ -1280,7 +1988,13 @@
       "description": "Le « Habeas Corpus Parliament » adopte sous Charles II la loi qui oblige tout geôlier à présenter rapidement le détenu devant un juge, celui-ci vérifiant la légalité de la détention : rempart contre l'emprisonnement arbitraire, pilier des libertés publiques anglaises.",
       "fromVibe": true,
       "country": "Angleterre",
-      "priority": 1
+      "priority": 1,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        }
+      ]
     },
     {
       "id": "newton-principia-1687",
@@ -1290,7 +2004,13 @@
       "description": "Isaac Newton énonce les lois du mouvement et la gravitation universelle : fondement de la mécanique classique et de la science moderne.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Angleterre"
+      "country": "Angleterre",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        }
+      ]
     },
     {
       "id": "glorieuse-revolution-1688",
@@ -1302,7 +2022,13 @@
       "description": "Guillaume d'Orange débarque en Angleterre ; Jacques II fuit sans combattre. Le trône est offert à Guillaume III et Marie II, qui doivent accepter les limitations du pouvoir royal : la monarchie anglaise devient parlementaire.",
       "fromVibe": true,
       "country": "Angleterre",
-      "priority": 2
+      "priority": 2,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        }
+      ]
     },
     {
       "id": "bill-of-rights-1689",
@@ -1314,7 +2040,13 @@
       "description": "Après la Glorieuse Révolution, la Déclaration des droits limite le pouvoir royal : interdiction de suspendre les lois ou de lever une armée permanente sans le consentement du Parlement. Acte fondateur de la monarchie constitutionnelle anglaise.",
       "fromVibe": true,
       "country": "Angleterre",
-      "priority": 2
+      "priority": 2,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        }
+      ]
     },
     {
       "id": "independance-usa-1776",
@@ -1324,7 +2056,13 @@
       "description": "Les Treize Colonies proclament leur indépendance à Philadelphie, fondant les États-Unis sur les principes des droits naturels et du consentement des gouvernés.",
       "priority": 1,
       "fromVibe": true,
-      "country": "États-Unis"
+      "country": "États-Unis",
+      "levels": [
+        {
+          "continent": "Amériques",
+          "culture": "ameriques"
+        }
+      ]
     },
     {
       "id": "etats-generaux-1789",
@@ -1336,7 +2074,13 @@
       "description": "Louis XVI réunit les États généraux à Versailles pour résoudre la crise financière du royaume. Blocage immédiat sur la question du vote par tête ou par ordre.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "assemblee-nationale-1789",
@@ -1348,7 +2092,13 @@
       "description": "Le tiers état, affirmant représenter la nation entière, se proclame Assemblée nationale : acte de naissance politique de la Révolution.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "serment-jeu-de-paume-1789",
@@ -1360,7 +2110,13 @@
       "description": "Les députés jurent de ne pas se séparer avant d'avoir donné une constitution à la France.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "ex-1",
@@ -1372,7 +2128,13 @@
       "description": "Prise de la forteresse de la Bastille à Paris, symbole du début de la Révolution française.",
       "fromVibe": false,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "nuit-4-aout-1789",
@@ -1384,7 +2146,13 @@
       "description": "L'Assemblée nationale abolit les privilèges féodaux : la société d'ordres est détruite en une nuit.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "ddhc-1789",
@@ -1396,7 +2164,13 @@
       "description": "Liberté, égalité devant la loi, souveraineté de la nation : texte fondateur toujours au sommet du droit français.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "marche-femmes-versailles-1789",
@@ -1408,7 +2182,13 @@
       "description": "Des Parisiennes marchent sur Versailles ; le roi est ramené à Paris et placé sous la surveillance du peuple.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "constitution-civile-clerge-1790",
@@ -1420,7 +2200,13 @@
       "description": "L'Église de France passe sous le contrôle de l'État ; les prêtres doivent prêter serment, ce qui divise profondément le pays.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "fuite-varennes-1791",
@@ -1432,7 +2218,13 @@
       "description": "Louis XVI tente de fuir à l'étranger avec sa famille ; reconnu et arrêté à Varennes, il perd définitivement la confiance des Français.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "constitution-1791",
@@ -1444,7 +2236,13 @@
       "description": "La France devient une monarchie constitutionnelle : le roi partage le pouvoir avec une assemblée élue.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "guerre-autriche-1792",
@@ -1456,7 +2254,13 @@
       "description": "La France révolutionnaire déclare la guerre à l'Autriche, bientôt rejointe par la Prusse. La guerre va radicaliser la Révolution.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "prise-tuileries-1792",
@@ -1468,7 +2272,13 @@
       "description": "Les Parisiens prennent d'assaut le palais des Tuileries ; le roi est suspendu puis emprisonné.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "discours-danton-1792",
@@ -1480,7 +2290,13 @@
       "description": "Face à l'invasion prussienne, Danton appelle à l'audace : « De l'audace, encore de l'audace, toujours de l'audace, et la France est sauvée ! »",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "valmy-1792",
@@ -1492,7 +2308,13 @@
       "description": "Les canons français arrêtent l'invasion prussienne : première victoire de la République naissante.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "premiere-republique-1792",
@@ -1504,7 +2326,13 @@
       "description": "La Convention nationale abolit la monarchie et proclame la République.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "guerre-vendee-1793-1796",
@@ -1516,7 +2344,13 @@
       "description": "La levée de 300 000 hommes provoque l'insurrection vendéenne : guerre civile dévastatrice entre paysans et armées républicaines.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "execution-louis-xvi-1793",
@@ -1528,7 +2362,13 @@
       "description": "Le roi, jugé pour trahison par la Convention, est guillotiné place de la Révolution. L'Europe entière se ligue contre la France.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "assassinat-marat-1793",
@@ -1540,7 +2380,13 @@
       "description": "Charlotte Corday poignarde le journaliste radical Jean-Paul Marat dans son bain.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "levee-en-masse-1793",
@@ -1552,7 +2398,13 @@
       "description": "La Convention décrète que « toute la République appelle ses citoyens à sa défense » : un million d'hommes sont mobilisés. Naissance de la conscription et des armées de masse modernes.",
       "fromVibe": true,
       "priority": 3,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "la-terreur-1793-1794",
@@ -1564,7 +2416,13 @@
       "description": "De la loi des suspects à l'exécution de Robespierre : environ 16 500 condamnations à mort et 10 000 morts en prison (chiffres débattus).",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "execution-marie-antoinette-1793",
@@ -1576,7 +2434,13 @@
       "description": "La reine est guillotinée pendant la Terreur.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "execution-danton-1794",
@@ -1588,7 +2452,13 @@
       "description": "Danton et ses partisans, devenus favorables à la clémence, sont guillotinés à l'instigation du Comité de salut public.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "fleurus-1794",
@@ -1600,7 +2470,13 @@
       "description": "Victoire décisive sur les Autrichiens en Belgique : l'invasion est définitivement repoussée et les armées révolutionnaires conquièrent au-delà des frontières.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "thermidor-1794",
@@ -1612,7 +2488,13 @@
       "description": "La Convention arrête Robespierre, guillotiné le lendemain avec Saint-Just et ses partisans : la Terreur s'arrête.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "vendemiaire-1795",
@@ -1624,7 +2506,13 @@
       "description": "Le général Bonaparte disperse une insurrection royaliste à coups de canon dans les rues de Paris.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "debut-directoire-1795",
@@ -1636,7 +2524,13 @@
       "description": "La Constitution de l'an III entre en vigueur : le pouvoir exécutif est confié à cinq directeurs. Régime instable et corromtu, le Directoire survivra quatre ans, porté par les victoires militaires.",
       "fromVibe": true,
       "priority": 3,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "campagne-italie-1796-1797",
@@ -1648,7 +2542,13 @@
       "description": "Les campagnes foudroyantes du général Bonaparte écrasent l'Autriche en Italie et le rendent immensément populaire.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "expedition-egypte-1798-1801",
@@ -1660,7 +2560,13 @@
       "description": "Bonaparte part conquérir l'Égypte avec des savants ; l'expédition découvre notamment la pierre de Rosette.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "brumaire-1799",
@@ -1672,7 +2578,13 @@
       "description": "Bonaparte renverse le Directoire et devient Premier consul : la Révolution s'achève.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "banque-de-france-1800",
@@ -1684,7 +2596,13 @@
       "description": "Le Premier consul fonde la Banque de France pour remettre de l'ordre dans la monnaie ruinée par l'assignat et financer le commerce : elle deviendra la banque centrale, toujours en activité.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "concordat-1801",
@@ -1696,7 +2614,13 @@
       "description": "Accord entre Bonaparte et le pape Pie VII : la paix religieuse revient en France après douze ans de division.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "code-civil-1804",
@@ -1708,7 +2632,13 @@
       "description": "Le « Code Napoléon » fixe pour tous l'égalité civile et le droit de propriété ; il inspire encore de nombreux droits étrangers.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "proclamation-empire-1804",
@@ -1720,7 +2650,13 @@
       "description": "Le Sénat proclame Bonaparte empereur des Français sous le nom de Napoléon Ier.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "sacre-napoleon-1804",
@@ -1732,7 +2668,13 @@
       "description": "À Notre-Dame de Paris, Napoléon saisit la couronne et se couronne lui-même devant le pape convoqué.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "trafalgar-1805",
@@ -1744,7 +2686,13 @@
       "description": "Nelson détruit la flotte franco-espagnole : l'Angleterre règne sur les mers, Napoléon ne traversera jamais la Manche.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "austerlitz-1805",
@@ -1756,7 +2704,13 @@
       "description": "La victoire la plus célèbre de Napoléon, contre l'Autriche et la Russie réunies : la France domine l'Europe continentale.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "blocus-continental-1806",
@@ -1768,7 +2722,13 @@
       "description": "Par le décret de Berlin, Napoléon interdit à l'Europe de commercer avec l'Angleterre ; le remède empoisonne aussi l'économie française.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "guerre-espagne-1808-1814",
@@ -1780,7 +2740,13 @@
       "description": "L'occupation de l'Espagne plonge l'Empire dans une guérilla interminable qui l'épuise.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "campagne-russie-1812",
@@ -1792,7 +2758,13 @@
       "description": "Environ 600 000 hommes partent écraser la Russie ; la retraite dans l'hiver et le désastre de la Bérézina détruisent l'armée et le mythe d'invincibilité.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "leipzig-1813",
@@ -1804,7 +2776,13 @@
       "description": "La « bataille des Nations » : toute l'Europe réunie bat Napoléon, la France est envahie.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "congres-de-vienne-1815",
@@ -1822,6 +2800,24 @@
         "France",
         "Angleterre",
         "Russie"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-centrale"
+        },
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        },
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        },
+        {
+          "continent": "Europe",
+          "culture": "europe-est"
+        }
       ]
     },
     {
@@ -1834,7 +2830,13 @@
       "description": "Napoléon abdique et reçoit l'île d'Elbe ; Louis XVIII monte sur le trône, la Restauration commence.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "charte-1814",
@@ -1846,7 +2848,13 @@
       "description": "Louis XVIII rétablit la monarchie mais conserve les acquis de la Révolution : égalité civile, Code civil, propriété.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "terreur-blanche-1815",
@@ -1858,7 +2866,13 @@
       "description": "Vague de violence royaliste contre les bonapartistes et les révolutionnaires après le retour définitif de Louis XVIII.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "debarquement-golfe-juan-1815",
@@ -1870,7 +2884,13 @@
       "description": "Napoléon quitte l'île d'Elbe et débarque en France ; en trois semaines, il reprend le pouvoir sans tirer un coup de feu.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "cent-jours-1815",
@@ -1882,7 +2902,13 @@
       "description": "Du retour de Napoléon aux Tuileries à sa seconde abdication, après la défaite de Waterloo.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "waterloo-1815",
@@ -1898,6 +2924,16 @@
       "countries": [
         "France",
         "Angleterre"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        },
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        }
       ]
     },
     {
@@ -1910,7 +2946,13 @@
       "description": "Après Waterloo, Napoléon abdique et est exilé par les Anglais à Sainte-Hélène.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "mort-napoleon-1821",
@@ -1922,7 +2964,13 @@
       "description": "L'empereur meurt en exil sur l'île de Sainte-Hélène, dans l'Atlantique sud, à 51 ans.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "milliard-des-emigres-1825",
@@ -1934,7 +2982,13 @@
       "description": "Loi d'indemnisation d'un milliard de francs aux nobles dont les biens avaient été vendus pendant la Révolution.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "sacre-charles-x-1825",
@@ -1946,7 +3000,13 @@
       "description": "Le roi se fait sacrer comme au Moyen Âge ; son règne réactionnaire (loi sur le sacrilège) heurte la France libérale.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "naissance-jean-martin-charcot-1825",
@@ -1958,7 +3018,13 @@
       "description": "Naissance à Paris du neurologue Jean-Martin Charcot, fondateur avec Duchenne de la neurologie moderne et célèbre pour ses travaux sur l'hystérie et l'hypnose à la Salpêtrière.",
       "priority": 2,
       "country": "France",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "naissance-louise-michel-1830",
@@ -1970,7 +3036,13 @@
       "description": "Naissance à Vroncourt-la-Côte (Haute-Marne) de Louise Michel, future institutrice, écrivaine et militante anarchiste, figure majeure de la Commune de Paris.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "ordonnances-saint-cloud-1830",
@@ -1982,7 +3054,13 @@
       "description": "Charles X suspend la liberté de la presse, dissout la chambre et truque les élections : un coup d'État sur le papier qui déclenche la révolution.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "trois-glorieuses-1830",
@@ -1994,7 +3072,13 @@
       "description": "Trois jours de barricades à Paris renversent Charles X ; une partie de l'armée refuse de tirer sur la foule.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "abdication-charles-x-1830",
@@ -2006,7 +3090,13 @@
       "description": "Le dernier roi de la branche aînée des Bourbons abdique à Rambouillet et s'exile en Angleterre.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "louis-philippe-roi-1830",
@@ -2018,7 +3108,13 @@
       "description": "La Fayette présente le duc d'Orléans à la foule, drapeau tricolore à la main : la monarchie de Juillet commence, « roi bourgeois » et vote réservé aux riches.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "revolte-canuts-1831",
@@ -2030,7 +3126,13 @@
       "description": "Les ouvriers de la soie se soulèvent pour leurs salaires : première grande révolte ouvrière de l'industrialisation.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "cholera-1832",
@@ -2042,7 +3144,13 @@
       "description": "L'épidémie tue près de vingt mille Parisiens et attise la colère politique.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "insurrection-lamarque-1832",
@@ -2054,7 +3162,13 @@
       "description": "Les funérailles du général Lamarque dégénèrent en insurrection ; Victor Hugo en fera le décor des Misérables.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "chemin-de-fer-1837",
@@ -2066,7 +3180,13 @@
       "description": "Inauguration de la ligne Paris – Saint-Germain : l'ère du rail commence, moteur de l'industrialisation française.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "campagne-banquets-1847",
@@ -2078,7 +3198,13 @@
       "description": "Privée du droit de réunion, l'opposition dîne et réclame la réforme électorale dans des centaines de banquets à travers la France.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "printemps-des-peuples-1848",
@@ -2090,7 +3216,13 @@
       "description": "La révolution française ébranle l'Europe : soulèvements à Vienne, Berlin, Milan et Rome.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "revolution-fevrier-1848",
@@ -2102,7 +3234,13 @@
       "description": "Un banquet interdit, une charge de la garde, trois journées d'émeute : Louis-Philippe abdique et s'enfuit, la Deuxième République est proclamée.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "suffrage-universel-1848",
@@ -2114,7 +3252,13 @@
       "description": "Du jour au lendemain, neuf millions d'hommes deviennent électeurs, contre deux cent mille sous Louis-Philippe.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "elections-constituante-1848",
@@ -2126,7 +3270,13 @@
       "description": "Le suffrage universel envoie à l'assemblée une majorité de notables de province, méfiants envers les idées sociales de Paris.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "abolition-esclavage-1848",
@@ -2138,7 +3288,13 @@
       "description": "Le décret porté par Victor Schœlcher abolit l'esclavage dans toutes les colonies françaises.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "journees-juin-1848",
@@ -2150,7 +3306,13 @@
       "description": "La fermeture des ateliers nationaux provoque l'insurrection ouvrière ; la répression du général Cavaignac fait plus d'un millier de morts. La République se divise.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "election-louis-napoleon-1848",
@@ -2162,7 +3324,13 @@
       "description": "Première élection présidentielle de l'histoire de France : le neveu de Napoléon l'emporte avec près de trois quarts des suffrages.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "coup-etat-1851",
@@ -2174,7 +3342,13 @@
       "description": "Le prince-président dissout l'Assemblée et fait arrêter l'opposition ; la résistance républicaine est réprimée, Victor Hugo s'exile. Un plébiscite entérine le coup d'État.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "discours-bordeaux-1852",
@@ -2186,7 +3360,13 @@
       "description": "À Bordeaux, Louis-Napoléon lance la formule de son règne : promesse d'ordre, de prospérité et de paix.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "second-empire-1852",
@@ -2198,7 +3378,13 @@
       "description": "Un an après le coup d'État, jour pour jour, Louis-Napoléon Bonaparte devient l'empereur Napoléon III.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "haussmann-1853",
@@ -2210,7 +3396,13 @@
       "description": "Le baron Haussmann entreprend les grands travaux : grands boulevards, égouts, parcs, eau courante — le Paris moderne naît.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "guerre-crimee-1854",
@@ -2228,6 +3420,24 @@
         "Angleterre",
         "Russie",
         "Turquie"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        },
+        {
+          "continent": "Europe",
+          "culture": "iles-britanniques"
+        },
+        {
+          "continent": "Europe",
+          "culture": "europe-est"
+        },
+        {
+          "continent": "Moyen-Orient",
+          "culture": "proche-orient"
+        }
       ]
     },
     {
@@ -2240,7 +3450,13 @@
       "description": "Le Paris modernisé du Second Empire se montre au monde entier.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "guerre-italie-1859",
@@ -2252,7 +3468,13 @@
       "description": "La France aide le Piémont contre l'Autriche : victoires de Magenta et de Solférino, la France reçoit la Savoie et Nice.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "magenta-1859",
@@ -2264,7 +3486,13 @@
       "description": "Victoire française en Lombardie sur les Autrichiens.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "solferino-1859",
@@ -2276,7 +3504,13 @@
       "description": "Victoire décisive ; le spectacle des blessés abandonnés inspire à Henri Dunant la création de la Croix-Rouge.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "libre-echange-1860",
@@ -2288,7 +3522,13 @@
       "description": "Le traité Cobden-Chevalier ouvre le marché français aux manufactures britanniques : tournant libéral du Second Empire.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "rattachement-savoie-nice-1860",
@@ -2300,7 +3540,13 @@
       "description": "Le traité de Turin donne à la France la Savoie et le comté de Nice en échange de son aide à l'unité italienne.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "charcot-salpetriere-1862",
@@ -2312,7 +3558,13 @@
       "description": "Jean-Martin Charcot prend son service à la Salpêtrière, où il exercera toute sa carrière : il y bâtit la méthode anatomo-clinique et fait de l'hôpital le berceau mondial de l'étude des maladies du système nerveux.",
       "priority": 2,
       "country": "France",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "loi-greve-1864",
@@ -2324,7 +3576,13 @@
       "description": "La loi Ollier autorise la coalition et la grève : première grande reconnaissance du monde ouvrier depuis 1791.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "plebiscite-1870",
@@ -2336,7 +3594,13 @@
       "description": "Les Français approuvent massivement l'Empire devenu libéral : le régime semble au sommet de sa force.",
       "fromVibe": true,
       "priority": 5,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "guerre-prusse-1870",
@@ -2352,6 +3616,16 @@
       "countries": [
         "France",
         "Allemagne"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        },
+        {
+          "continent": "Europe",
+          "culture": "europe-centrale"
+        }
       ]
     },
     {
@@ -2368,6 +3642,16 @@
       "countries": [
         "France",
         "Allemagne"
+      ],
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        },
+        {
+          "continent": "Europe",
+          "culture": "europe-centrale"
+        }
       ]
     },
     {
@@ -2380,7 +3664,13 @@
       "description": "À la nouvelle du désastre de Sedan, les Parisiens proclament la République à l'hôtel de ville. Le siège de la capitale par les Prussiens commence.",
       "fromVibe": true,
       "priority": 1,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "proclamation-commune-1871",
@@ -2392,7 +3682,13 @@
       "description": "Après l'insurrection du 18 mars, la Commune est proclamée à l'Hôtel de Ville : 72 jours de gouvernement révolutionnaire. Louise Michel combat au 61e bataillon de Montmartre, sur les barricades et comme ambulancière.",
       "fromVibe": true,
       "priority": 2,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "proces-louise-michel-1871",
@@ -2404,7 +3700,13 @@
       "description": "Devant le conseil de guerre, Louise Michel brave ses juges et réclame la mort : « Si vous n'êtes pas des lâches, tuez-moi. » Condamnée à la déportation dans une enceinte fortifiée ; Victor Hugo lui dédie le poème « Viro Major ».",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "deportation-louise-michel-1873",
@@ -2416,7 +3718,13 @@
       "description": "Embarquée à Saint-Martin-de-Ré, elle rejoint en décembre la presqu'île Ducos. En sept ans d'exil, elle instruit les Kanaks et prend leur défense lors de leur révolte de 1878 ; elle y devient anarchiste.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "amnistie-communards-1880",
@@ -2428,7 +3736,13 @@
       "description": "Votée le 11 juillet et promulguée le 12 juillet 1880, la loi d'amnistie permet aux communards condamnés ou exilés de rentrer en France.",
       "fromVibe": true,
       "priority": 3,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "retour-louise-michel-1880",
@@ -2440,7 +3754,13 @@
       "description": "Amnistiée, Louise Michel débarque à Dieppe et rentre à Paris, acclamée par la foule : « Vive Louise Michel ! Vive la Commune ! ». Elle reprend jusqu'à sa mort son combat en faveur des prolétaires.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "charcot-chaire-neurologie-1882",
@@ -2452,7 +3772,13 @@
       "description": "Une chaire de clinique des maladies du système nerveux est créée à la Salpêtrière pour Charcot : la première au monde, acte de naissance de la neurologie en tant que spécialité. Son « École de la Salpêtrière » attire étudiants et médecins du monde entier, dont Freud en 1885.",
       "priority": 1,
       "country": "France",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "manifestation-drapeau-noir-1883",
@@ -2464,7 +3790,13 @@
       "description": "Avec Émile Pouget, Louise Michel mène aux Invalides la manifestation des chômeurs en arborant le drapeau noir : « J'arborerai le drapeau noir, portant le deuil de nos morts et de nos illusions. » Le noir devient l'étendard de l'anarchisme.",
       "fromVibe": true,
       "priority": 4,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "mort-jean-martin-charcot-1893",
@@ -2476,7 +3808,13 @@
       "description": "Le « Napoléon des névroses » meurt brutalement à 67 ans au lac des Settons (Nièvre). Il laisse son nom à la sclérose latérale amyotrophique (maladie de Charcot) et une école qui a formé Freud, Babinski ou Gilles de la Tourette.",
       "priority": 2,
       "country": "France",
-      "fromVibe": true
+      "fromVibe": true,
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "mort-louise-michel-1905",
@@ -2488,7 +3826,13 @@
       "description": "Louise Michel meurt à Marseille à 74 ans ; ses funérailles rassemblent à Paris des milliers de personnes. Elle est inhumée au cimetière de Levallois-Perret.",
       "fromVibe": true,
       "priority": 3,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "ww1-1914",
@@ -2507,7 +3851,13 @@
       "description": "Les bolcheviks de Lénine prennent le Palais d'Hiver à Petrograd et proclament le pouvoir des soviets : naissance de l'URSS, premier État communiste.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Russie"
+      "country": "Russie",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-est"
+        }
+      ]
     },
     {
       "id": "krach-1929",
@@ -2517,7 +3867,13 @@
       "description": "Le « jeudi noir », la Bourse de New York s'effondre et entraîne la Grande Dépression, crise économique mondiale des années 1930.",
       "priority": 1,
       "fromVibe": true,
-      "country": "États-Unis"
+      "country": "États-Unis",
+      "levels": [
+        {
+          "continent": "Amériques",
+          "culture": "ameriques"
+        }
+      ]
     },
     {
       "id": "ww2-1939",
@@ -2538,7 +3894,13 @@
       "description": "Au théâtre de l'Atelier sous l'Occupation, Anouilh transpose le mythe grec : la jeune fille qui refuse de céder à Créon résonne comme une réflexion sur la résistance, l'engagement et le destin.",
       "priority": 3,
       "fromVibe": true,
-      "country": "France"
+      "country": "France",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-ouest"
+        }
+      ]
     },
     {
       "id": "hiroshima-1945",
@@ -2548,7 +3910,13 @@
       "description": "Le bombardier Enola Gay largue la première bombe atomique de l'histoire sur Hiroshima : 80 000 morts immédiats, entrée de l'humanité dans l'ère nucléaire.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Japon"
+      "country": "Japon",
+      "levels": [
+        {
+          "continent": "Asie",
+          "culture": "asie-est"
+        }
+      ]
     },
     {
       "id": "onu-1945",
@@ -2567,7 +3935,13 @@
       "description": "Neil Armstrong pose le pied sur la Lune et déclare : « C'est un petit pas pour l'homme, un bond de géant pour l'humanité. »",
       "priority": 1,
       "fromVibe": true,
-      "country": "États-Unis"
+      "country": "États-Unis",
+      "levels": [
+        {
+          "continent": "Amériques",
+          "culture": "ameriques"
+        }
+      ]
     },
     {
       "id": "chute-mur-berlin-1989",
@@ -2577,7 +3951,13 @@
       "description": "Sous la pression populaire, la RDA ouvre le mur de Berlin ; symbole de la fin de la guerre froide et de la réunification allemande en 1990.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Allemagne"
+      "country": "Allemagne",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "europe-centrale"
+        }
+      ]
     },
     {
       "id": "attentats-11-septembre-2001",
@@ -2587,7 +3967,13 @@
       "description": "Quatre avions détournés par Al-Qaïda frappent le World Trade Center et le Pentagone : près de 3 000 morts, début de la « guerre contre le terrorisme ».",
       "priority": 2,
       "fromVibe": true,
-      "country": "États-Unis"
+      "country": "États-Unis",
+      "levels": [
+        {
+          "continent": "Amériques",
+          "culture": "ameriques"
+        }
+      ]
     }
   ]
 }
