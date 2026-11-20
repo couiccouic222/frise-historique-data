@@ -519,7 +519,13 @@
       "description": "À la mort d'Alexandre, ses généraux (Ptolémée, Séleucos, Antigone, Lysimaque, Cassandre) se disputent l'empire pendant quarante ans : il sera partagé en royaumes, jamais réunifié.",
       "priority": 1,
       "fromVibe": true,
-      "country": "Monde hellénistique"
+      "country": "Grèce",
+      "countries": [
+        "Grèce",
+        "Égypte",
+        "Mésopotamie",
+        "Turquie"
+      ]
     },
     {
       "id": "empire-maurya--322",
@@ -811,7 +817,7 @@
       "description": "En une seule année, Galba, Othon, Vitellius puis Vespasien se disputent le trône : les armées, et non plus le Sénat, choisissent désormais les empereurs.",
       "priority": 3,
       "fromVibe": true,
-      "country": "Empire romain"
+      "country": "Rome"
     },
     {
       "id": "chute-jerusalem-70",
