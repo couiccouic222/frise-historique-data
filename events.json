@@ -3799,6 +3799,18 @@
       ]
     },
     {
+      "id": "naissance-haile-selassie-1892",
+      "name": "Naissance de Tafari Makonnen, futur Haïlé Sélassié Ier",
+      "start": "1892-07-23",
+      "end": null,
+      "type": "Personnage",
+      "category": "Politique",
+      "description": "Né à Ejersa Goro près de Harar, fils du ras Makonnen, le jeune Tafari descend selon la tradition de la dynastie salomonide (la reine de Saba et le roi Salomon) : il sera le 225e et dernier empereur d'Éthiopie.",
+      "priority": 2,
+      "country": "Éthiopie",
+      "fromVibe": true
+    },
+    {
       "id": "mort-jean-martin-charcot-1893",
       "name": "Mort de Jean-Martin Charcot",
       "start": "1893-08-16",
@@ -3876,12 +3888,72 @@
       ]
     },
     {
+      "id": "couronnement-haile-selassie-1930",
+      "name": "Couronnement de Haïlé Sélassié Ier",
+      "start": "1930-11-02",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Le ras Tafari, déjà négus et régent depuis 1916, est couronné empereur à Addis-Abeba sous le nom de Haïlé Sélassié (« Puissance de la Trinité »), roi des rois, lion de Juda. Relayé dans le monde noir, le couronnement inspire le mouvement rastafari, qui y voit le sacre du messie.",
+      "priority": 1,
+      "country": "Éthiopie",
+      "fromVibe": true
+    },
+    {
+      "id": "constitution-ethiopie-1931",
+      "name": "Première constitution écrite de l'Éthiopie",
+      "start": "1931",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "L'empereur donne à l'Éthiopie sa première constitution écrite, modernisation prudente d'institutions qui appuie le pouvoir central contre la féodalité ; il a déjà fait entrer le pays à la Société des Nations (1923) et aboli l'esclavage (1924).",
+      "priority": 3,
+      "country": "Éthiopie",
+      "fromVibe": true
+    },
+    {
+      "id": "invasion-italienne-ethiopie-1935",
+      "name": "Invasion de l'Éthiopie par l'Italie fasciste",
+      "start": "1935-10-03",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Sans déclaration de guerre, Mussolini lance l'invasion de l'Éthiopie depuis l'Érythrée et la Somalie italiennes. L'armée italienne emploiera du gaz moutarde contre les soldats comme contre les civils ; l'empereur mène lui-même la résistance.",
+      "priority": 1,
+      "country": "Éthiopie",
+      "fromVibe": true
+    },
+    {
+      "id": "discours-sdn-haile-selassie-1936",
+      "name": "Discours de Haïlé Sélassié à la Société des Nations",
+      "start": "1936-06-30",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Depuis l'exil, après la chute d'Addis-Abeba (5 mai 1936), l'empereur dénonce à Genève l'agression italienne et l'usage des gaz : face à l'inaction de la SdN, il avertit que le sort de l'Éthiopie aujourd'hui sera celui des autres demain. Discours resté célèbre comme réquisitoire contre l'impuissance de la sécurité collective.",
+      "priority": 2,
+      "country": "Éthiopie",
+      "fromVibe": true
+    },
+    {
       "id": "ww2-1939",
       "name": "Seconde Guerre mondiale",
       "type": "Période",
       "category": "Guerre",
       "description": "L'invasion de la Pologne par l'Allemagne nazie déclenche le conflit le plus meurtrier de l'histoire : environ 70 millions de morts, Shoah, bombe atomique.",
       "priority": 1,
+      "fromVibe": true
+    },
+    {
+      "id": "retour-haile-selassie-1941",
+      "name": "Restauration de Haïlé Sélassié sur le trône",
+      "start": "1941-05-05",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "À la faveur de la Seconde Guerre mondiale et de l'offensive anglo-éthiopienne lancée en janvier, l'empereur entre dans Addis-Abeba rétabli sur son trône, cinq ans jour pour jour après l'entrée des Italiens.",
+      "priority": 2,
+      "country": "Éthiopie",
       "fromVibe": true
     },
     {
@@ -3928,6 +4000,18 @@
       "fromVibe": true
     },
     {
+      "id": "creation-oua-1963",
+      "name": "Création de l'Organisation de l'unité africaine",
+      "start": "1963-05-25",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Les États africains indépendants signent à Addis-Abeba la Charte de l'OUA, acte majeur du panafricanisme : l'Éthiopie de Sélassié en est l'hôte et l'empereur le premier président en exercice. Le siège reste aujourd'hui celui de l'Union africaine.",
+      "priority": 1,
+      "country": "Éthiopie",
+      "fromVibe": true
+    },
+    {
       "id": "apollo-11-1969",
       "name": "Apollo 11 : l'homme marche sur la Lune",
       "type": "Découverte",
@@ -3942,6 +4026,30 @@
           "culture": "ameriques"
         }
       ]
+    },
+    {
+      "id": "deposition-haile-selassie-1974",
+      "name": "Déposition de Haïlé Sélassié par le Derg",
+      "start": "1974-09-12",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "Ébranlée par la famine cachée du Wollo (environ 300 000 morts) et la révolte de l'armée, la monarchie tombe : la junte militaire marxiste-léniniste du Derg dépose le dernier empereur et abolit en 1975 un empire aux origines multimillénaires.",
+      "priority": 2,
+      "country": "Éthiopie",
+      "fromVibe": true
+    },
+    {
+      "id": "mort-haile-selassie-1975",
+      "name": "Mort de Haïlé Sélassié",
+      "start": "1975-08-27",
+      "end": null,
+      "type": "Événement",
+      "category": "Politique",
+      "description": "L'empereur déchu meurt dans son palais à 83 ans, officiellement après une opération, très probablement étranglé sur ordre du Derg. Enterré en secret, il reçoit des funérailles nationales à la cathédrale de la Sainte-Trinité en 2000.",
+      "priority": 2,
+      "country": "Éthiopie",
+      "fromVibe": true
     },
     {
       "id": "chute-mur-berlin-1989",
