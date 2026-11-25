@@ -658,6 +658,42 @@
       ]
     },
     {
+      "id": "bataille-allia--390",
+      "name": "Bataille de l'Allia",
+      "start": "-390",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Le 18 juillet 390 av. J.-C., les Gaulois Sénons de Brennus écrasent l'armée romaine près de la rivière Allia, ouvrant la route de Rome : l'une des pires défaites de l'histoire de la République.",
+      "priority": 2,
+      "fromVibe": true,
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
+    },
+    {
+      "id": "sac-de-rome-brennus--390",
+      "name": "Sac de Rome par Brennus : « Vae victis »",
+      "start": "-390",
+      "end": null,
+      "type": "Événement",
+      "category": "Guerre",
+      "description": "Après des mois de siège du Capitole, Rome verse à Brennus une rançon de 1 000 livres d'or. Jugeant les poids truqués, le chef gaulois jette son épée dans la balance et lance « Vae victis » (« malheur aux vaincus »), formule devenue proverbiale grâce à Tite-Live.",
+      "priority": 1,
+      "fromVibe": true,
+      "country": "Rome",
+      "levels": [
+        {
+          "continent": "Europe",
+          "culture": "mediterranee"
+        }
+      ]
+    },
+    {
       "id": "bataille-cheronee--338",
       "name": "Bataille de Chéronée, la Grèce passe sous contrôle macédonien",
       "start": "-338",
